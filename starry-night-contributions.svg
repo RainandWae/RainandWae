@@ -4,7 +4,7 @@
   <desc id="desc">A blue GitHub contribution graph with a small number of individual squares that brighten and fade like stars at varied speeds.</desc>
   <rect width="865" height="190" rx="8" fill="#0b1020" />
   <text x="46" y="24" fill="#fff0b3" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15" font-weight="600">RainandWae / star field</text>
-  <text x="837" y="24" text-anchor="end" fill="#b7a777" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12">69 contributions</text>
+  <text x="837" y="24" text-anchor="end" fill="#b7a777" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12">70 contributions</text>
   <g font-family="Segoe UI, Inter, Arial, sans-serif" font-size="10" fill="#b7a777">
     <text x="46" y="47">Jul</text>
     <text x="91" y="47">Aug</text>
@@ -27,2259 +27,1919 @@
     
         <g>
           <title>2025-07-13: 0 contributions</title>
-          <rect x="46" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="46" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-07-14: 0 contributions</title>
-          <rect x="46" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="46" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-07-15: 0 contributions</title>
-          <rect x="46" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="46" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-07-16: 0 contributions</title>
-          <rect x="46" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="46" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-07-17: 0 contributions</title>
-          <rect x="46" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="46" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-07-18: 0 contributions</title>
-          <rect x="46" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="46" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-07-19: 0 contributions</title>
-          <rect x="46" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="46" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-07-20: 0 contributions</title>
-          <rect x="61" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="61" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-07-21: 0 contributions</title>
-          <rect x="61" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="61" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-07-22: 0 contributions</title>
-          <rect x="61" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="61" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-07-23: 0 contributions</title>
-          <rect x="61" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="61" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-07-24: 0 contributions</title>
-          <rect x="61" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="61" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-07-25: 0 contributions</title>
-          <rect x="61" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="61" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-07-26: 0 contributions</title>
-          <rect x="61" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="61" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-07-27: 0 contributions</title>
-          <rect x="76" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="76" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-07-28: 0 contributions</title>
-          <rect x="76" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="76" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-07-29: 0 contributions</title>
-          <rect x="76" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="76" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-07-30: 0 contributions</title>
-          <rect x="76" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="76" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-07-31: 0 contributions</title>
-          <rect x="76" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="76" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-08-01: 0 contributions</title>
-          <rect x="76" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="76" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-08-02: 0 contributions</title>
-          <rect x="76" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="76" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-08-03: 0 contributions</title>
-          <rect x="91" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-            <animate attributeName="fill" values="#161b2d;#fff4b8;#c99a35;#161b2d" begin="12.86s" dur="4.51s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-            <animate attributeName="opacity" values=".42;0.93;.72;.42" begin="12.86s" dur="4.51s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-          </rect>
+          <rect x="91" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-08-04: 0 contributions</title>
-          <rect x="91" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="91" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-08-05: 0 contributions</title>
-          <rect x="91" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="91" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-08-06: 0 contributions</title>
-          <rect x="91" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="91" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-08-07: 0 contributions</title>
-          <rect x="91" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-            <animate attributeName="fill" values="#161b2d;#fff4b8;#c99a35;#161b2d" begin="19.82s" dur="13.19s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-            <animate attributeName="opacity" values=".42;0.94;.72;.42" begin="19.82s" dur="13.19s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-          </rect>
+          <rect x="91" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-08-08: 0 contributions</title>
-          <rect x="91" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="91" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-08-09: 0 contributions</title>
-          <rect x="91" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="91" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-08-10: 0 contributions</title>
-          <rect x="106" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="106" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-08-11: 0 contributions</title>
-          <rect x="106" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="106" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-08-12: 0 contributions</title>
-          <rect x="106" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="106" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-08-13: 0 contributions</title>
-          <rect x="106" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="106" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-08-14: 0 contributions</title>
-          <rect x="106" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="106" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-08-15: 0 contributions</title>
-          <rect x="106" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="106" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-08-16: 0 contributions</title>
-          <rect x="106" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="106" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-08-17: 0 contributions</title>
-          <rect x="121" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="121" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-08-18: 0 contributions</title>
-          <rect x="121" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="121" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-08-19: 0 contributions</title>
-          <rect x="121" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="121" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-08-20: 0 contributions</title>
-          <rect x="121" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="121" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-08-21: 0 contributions</title>
-          <rect x="121" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="121" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-08-22: 0 contributions</title>
-          <rect x="121" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="121" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-08-23: 0 contributions</title>
-          <rect x="121" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="121" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-08-24: 0 contributions</title>
-          <rect x="136" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-            <animate attributeName="fill" values="#161b2d;#fff4b8;#c99a35;#161b2d" begin="26.00s" dur="10.95s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-            <animate attributeName="opacity" values=".42;0.87;.72;.42" begin="26.00s" dur="10.95s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-          </rect>
+          <rect x="136" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-08-25: 0 contributions</title>
-          <rect x="136" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="136" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-08-26: 0 contributions</title>
-          <rect x="136" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="136" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-08-27: 0 contributions</title>
-          <rect x="136" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="136" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-08-28: 0 contributions</title>
-          <rect x="136" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="136" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-08-29: 0 contributions</title>
-          <rect x="136" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="136" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-08-30: 0 contributions</title>
-          <rect x="136" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="136" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-08-31: 0 contributions</title>
-          <rect x="151" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="151" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-09-01: 0 contributions</title>
-          <rect x="151" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="151" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-09-02: 0 contributions</title>
-          <rect x="151" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="151" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-09-03: 0 contributions</title>
-          <rect x="151" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="151" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-09-04: 0 contributions</title>
-          <rect x="151" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="151" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-09-05: 0 contributions</title>
-          <rect x="151" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="151" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-09-06: 0 contributions</title>
-          <rect x="151" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="151" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-09-07: 0 contributions</title>
-          <rect x="166" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="166" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-09-08: 0 contributions</title>
-          <rect x="166" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="166" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-09-09: 0 contributions</title>
-          <rect x="166" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="166" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-09-10: 0 contributions</title>
-          <rect x="166" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="166" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-09-11: 0 contributions</title>
-          <rect x="166" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="166" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-09-12: 0 contributions</title>
-          <rect x="166" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="166" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-09-13: 0 contributions</title>
-          <rect x="166" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="166" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-09-14: 0 contributions</title>
-          <rect x="181" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-            <animate attributeName="fill" values="#161b2d;#fff4b8;#c99a35;#161b2d" begin="15.38s" dur="3.47s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-            <animate attributeName="opacity" values=".42;0.89;.72;.42" begin="15.38s" dur="3.47s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-          </rect>
+          <rect x="181" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-09-15: 0 contributions</title>
-          <rect x="181" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="181" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-09-16: 0 contributions</title>
-          <rect x="181" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="181" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-09-17: 0 contributions</title>
-          <rect x="181" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-            <animate attributeName="fill" values="#161b2d;#fff4b8;#c99a35;#161b2d" begin="32.81s" dur="3.55s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-            <animate attributeName="opacity" values=".42;0.93;.72;.42" begin="32.81s" dur="3.55s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-          </rect>
+          <rect x="181" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-09-18: 0 contributions</title>
-          <rect x="181" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="181" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-09-19: 0 contributions</title>
-          <rect x="181" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="181" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-09-20: 0 contributions</title>
-          <rect x="181" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="181" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-09-21: 0 contributions</title>
-          <rect x="196" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="196" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-09-22: 0 contributions</title>
-          <rect x="196" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="196" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-09-23: 0 contributions</title>
-          <rect x="196" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="196" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-09-24: 0 contributions</title>
-          <rect x="196" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="196" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-09-25: 0 contributions</title>
-          <rect x="196" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="196" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-09-26: 0 contributions</title>
-          <rect x="196" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="196" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-09-27: 0 contributions</title>
-          <rect x="196" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="196" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-09-28: 0 contributions</title>
-          <rect x="211" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="211" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-09-29: 0 contributions</title>
-          <rect x="211" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="211" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-09-30: 0 contributions</title>
-          <rect x="211" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="211" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-10-01: 0 contributions</title>
-          <rect x="211" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="211" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-10-02: 0 contributions</title>
-          <rect x="211" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="211" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-10-03: 0 contributions</title>
-          <rect x="211" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="211" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-10-04: 0 contributions</title>
-          <rect x="211" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="211" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-10-05: 0 contributions</title>
-          <rect x="226" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="226" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-10-06: 0 contributions</title>
-          <rect x="226" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="226" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-10-07: 0 contributions</title>
-          <rect x="226" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="226" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-10-08: 0 contributions</title>
-          <rect x="226" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="226" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-10-09: 0 contributions</title>
-          <rect x="226" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="226" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-10-10: 0 contributions</title>
-          <rect x="226" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="226" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-10-11: 0 contributions</title>
-          <rect x="226" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="226" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-10-12: 0 contributions</title>
-          <rect x="241" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="241" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-10-13: 0 contributions</title>
-          <rect x="241" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="241" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-10-14: 0 contributions</title>
-          <rect x="241" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="241" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-10-15: 0 contributions</title>
-          <rect x="241" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="241" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-10-16: 0 contributions</title>
-          <rect x="241" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-            <animate attributeName="fill" values="#161b2d;#fff4b8;#c99a35;#161b2d" begin="0.84s" dur="9.82s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-            <animate attributeName="opacity" values=".42;0.88;.72;.42" begin="0.84s" dur="9.82s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-          </rect>
+          <rect x="241" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-10-17: 0 contributions</title>
-          <rect x="241" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="241" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-10-18: 0 contributions</title>
-          <rect x="241" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="241" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-10-19: 0 contributions</title>
-          <rect x="256" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="256" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-10-20: 0 contributions</title>
-          <rect x="256" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="256" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-10-21: 0 contributions</title>
-          <rect x="256" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="256" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-10-22: 0 contributions</title>
-          <rect x="256" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="256" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-10-23: 0 contributions</title>
-          <rect x="256" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="256" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-10-24: 0 contributions</title>
-          <rect x="256" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="256" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-10-25: 0 contributions</title>
-          <rect x="256" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="256" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-10-26: 0 contributions</title>
-          <rect x="271" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="271" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-10-27: 0 contributions</title>
-          <rect x="271" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="271" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-10-28: 0 contributions</title>
-          <rect x="271" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="271" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-10-29: 0 contributions</title>
-          <rect x="271" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="271" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-10-30: 0 contributions</title>
-          <rect x="271" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="271" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-10-31: 0 contributions</title>
-          <rect x="271" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="271" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-11-01: 0 contributions</title>
-          <rect x="271" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="271" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-11-02: 0 contributions</title>
-          <rect x="286" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="286" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-11-03: 0 contributions</title>
-          <rect x="286" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="286" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-11-04: 0 contributions</title>
-          <rect x="286" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="286" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-11-05: 0 contributions</title>
-          <rect x="286" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="286" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-11-06: 0 contributions</title>
-          <rect x="286" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="286" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-11-07: 0 contributions</title>
-          <rect x="286" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="286" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-11-08: 0 contributions</title>
-          <rect x="286" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="286" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-11-09: 0 contributions</title>
-          <rect x="301" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="301" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-11-10: 0 contributions</title>
-          <rect x="301" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="301" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-11-11: 0 contributions</title>
-          <rect x="301" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="301" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-11-12: 0 contributions</title>
-          <rect x="301" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="301" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-11-13: 0 contributions</title>
-          <rect x="301" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="301" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-11-14: 0 contributions</title>
-          <rect x="301" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="301" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-11-15: 0 contributions</title>
-          <rect x="301" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="301" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-11-16: 0 contributions</title>
-          <rect x="316" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="316" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-11-17: 0 contributions</title>
-          <rect x="316" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="316" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-11-18: 0 contributions</title>
-          <rect x="316" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="316" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-11-19: 0 contributions</title>
-          <rect x="316" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="316" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-11-20: 0 contributions</title>
-          <rect x="316" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-            <animate attributeName="fill" values="#161b2d;#fff4b8;#c99a35;#161b2d" begin="5.86s" dur="14.18s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-            <animate attributeName="opacity" values=".42;0.91;.72;.42" begin="5.86s" dur="14.18s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-          </rect>
+          <rect x="316" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-11-21: 0 contributions</title>
-          <rect x="316" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-            <animate attributeName="fill" values="#161b2d;#fff4b8;#c99a35;#161b2d" begin="25.87s" dur="3.31s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-            <animate attributeName="opacity" values=".42;0.93;.72;.42" begin="25.87s" dur="3.31s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-          </rect>
+          <rect x="316" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-11-22: 0 contributions</title>
-          <rect x="316" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="316" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-11-23: 0 contributions</title>
-          <rect x="331" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="331" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-11-24: 0 contributions</title>
-          <rect x="331" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="331" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-11-25: 0 contributions</title>
-          <rect x="331" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="331" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-11-26: 0 contributions</title>
-          <rect x="331" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="331" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-11-27: 0 contributions</title>
-          <rect x="331" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="331" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-11-28: 0 contributions</title>
-          <rect x="331" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="331" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-11-29: 0 contributions</title>
-          <rect x="331" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="331" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-11-30: 0 contributions</title>
-          <rect x="346" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="346" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-12-01: 0 contributions</title>
-          <rect x="346" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="346" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-12-02: 0 contributions</title>
-          <rect x="346" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="346" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-12-03: 0 contributions</title>
-          <rect x="346" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="346" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-12-04: 0 contributions</title>
-          <rect x="346" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="346" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-12-05: 0 contributions</title>
-          <rect x="346" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="346" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-12-06: 0 contributions</title>
-          <rect x="346" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="346" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-12-07: 0 contributions</title>
-          <rect x="361" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="361" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-12-08: 0 contributions</title>
-          <rect x="361" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="361" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-12-09: 0 contributions</title>
-          <rect x="361" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="361" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-12-10: 0 contributions</title>
-          <rect x="361" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="361" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-12-11: 0 contributions</title>
-          <rect x="361" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="361" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-12-12: 0 contributions</title>
-          <rect x="361" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="361" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-12-13: 0 contributions</title>
-          <rect x="361" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-            <animate attributeName="fill" values="#161b2d;#fff4b8;#c99a35;#161b2d" begin="26.51s" dur="5.67s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-            <animate attributeName="opacity" values=".42;0.94;.72;.42" begin="26.51s" dur="5.67s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-          </rect>
+          <rect x="361" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-12-14: 0 contributions</title>
-          <rect x="376" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="376" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-12-15: 0 contributions</title>
-          <rect x="376" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="376" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-12-16: 0 contributions</title>
-          <rect x="376" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="376" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-12-17: 0 contributions</title>
-          <rect x="376" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="376" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-12-18: 0 contributions</title>
-          <rect x="376" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="376" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-12-19: 0 contributions</title>
-          <rect x="376" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="376" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-12-20: 0 contributions</title>
-          <rect x="376" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="376" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-12-21: 0 contributions</title>
-          <rect x="391" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="391" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-12-22: 0 contributions</title>
-          <rect x="391" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="391" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-12-23: 0 contributions</title>
-          <rect x="391" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="391" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-12-24: 0 contributions</title>
-          <rect x="391" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="391" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-12-25: 0 contributions</title>
-          <rect x="391" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="391" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-12-26: 0 contributions</title>
-          <rect x="391" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="391" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-12-27: 0 contributions</title>
-          <rect x="391" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="391" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-12-28: 0 contributions</title>
-          <rect x="406" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="406" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-12-29: 0 contributions</title>
-          <rect x="406" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="406" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-12-30: 0 contributions</title>
-          <rect x="406" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="406" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2025-12-31: 0 contributions</title>
-          <rect x="406" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="406" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-01-01: 0 contributions</title>
-          <rect x="406" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="406" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-01-02: 0 contributions</title>
-          <rect x="406" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="406" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-01-03: 0 contributions</title>
-          <rect x="406" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="406" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-01-04: 0 contributions</title>
-          <rect x="421" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="421" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-01-05: 0 contributions</title>
-          <rect x="421" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="421" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-01-06: 0 contributions</title>
-          <rect x="421" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="421" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-01-07: 0 contributions</title>
-          <rect x="421" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="421" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-01-08: 0 contributions</title>
-          <rect x="421" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="421" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-01-09: 0 contributions</title>
-          <rect x="421" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="421" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-01-10: 0 contributions</title>
-          <rect x="421" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="421" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-01-11: 0 contributions</title>
-          <rect x="436" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="436" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-01-12: 0 contributions</title>
-          <rect x="436" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="436" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-01-13: 0 contributions</title>
-          <rect x="436" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="436" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-01-14: 0 contributions</title>
-          <rect x="436" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="436" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-01-15: 0 contributions</title>
-          <rect x="436" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="436" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-01-16: 0 contributions</title>
-          <rect x="436" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="436" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-01-17: 0 contributions</title>
-          <rect x="436" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="436" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-01-18: 0 contributions</title>
-          <rect x="451" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="451" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-01-19: 0 contributions</title>
-          <rect x="451" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="451" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-01-20: 0 contributions</title>
-          <rect x="451" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="451" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-01-21: 0 contributions</title>
-          <rect x="451" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="451" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-01-22: 0 contributions</title>
-          <rect x="451" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="451" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-01-23: 0 contributions</title>
-          <rect x="451" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="451" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-01-24: 0 contributions</title>
-          <rect x="451" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="451" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-01-25: 0 contributions</title>
-          <rect x="466" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="466" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-01-26: 0 contributions</title>
-          <rect x="466" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="466" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-01-27: 0 contributions</title>
-          <rect x="466" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="466" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-01-28: 0 contributions</title>
-          <rect x="466" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="466" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-01-29: 0 contributions</title>
-          <rect x="466" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="466" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-01-30: 0 contributions</title>
-          <rect x="466" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="466" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-01-31: 0 contributions</title>
-          <rect x="466" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="466" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-02-01: 0 contributions</title>
-          <rect x="481" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="481" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-02-02: 0 contributions</title>
-          <rect x="481" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="481" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-02-03: 0 contributions</title>
-          <rect x="481" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="481" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-02-04: 0 contributions</title>
-          <rect x="481" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="481" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-02-05: 0 contributions</title>
-          <rect x="481" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="481" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-02-06: 0 contributions</title>
-          <rect x="481" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="481" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-02-07: 0 contributions</title>
-          <rect x="481" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="481" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-02-08: 0 contributions</title>
-          <rect x="496" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="496" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-02-09: 0 contributions</title>
-          <rect x="496" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="496" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-02-10: 0 contributions</title>
-          <rect x="496" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="496" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-02-11: 0 contributions</title>
-          <rect x="496" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="496" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-02-12: 0 contributions</title>
-          <rect x="496" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="496" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-02-13: 0 contributions</title>
-          <rect x="496" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="496" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-02-14: 0 contributions</title>
-          <rect x="496" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="496" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-02-15: 0 contributions</title>
-          <rect x="511" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="511" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-02-16: 0 contributions</title>
-          <rect x="511" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="511" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-02-17: 0 contributions</title>
-          <rect x="511" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="511" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-02-18: 0 contributions</title>
-          <rect x="511" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="511" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-02-19: 0 contributions</title>
-          <rect x="511" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="511" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-02-20: 0 contributions</title>
-          <rect x="511" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="511" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-02-21: 0 contributions</title>
-          <rect x="511" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="511" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-02-22: 0 contributions</title>
-          <rect x="526" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="526" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-02-23: 0 contributions</title>
-          <rect x="526" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="526" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-02-24: 0 contributions</title>
-          <rect x="526" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="526" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-02-25: 0 contributions</title>
-          <rect x="526" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-            <animate attributeName="fill" values="#161b2d;#fff4b8;#c99a35;#161b2d" begin="32.63s" dur="16.42s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-            <animate attributeName="opacity" values=".42;0.99;.72;.42" begin="32.63s" dur="16.42s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-          </rect>
+          <rect x="526" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-02-26: 0 contributions</title>
-          <rect x="526" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="526" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-02-27: 0 contributions</title>
-          <rect x="526" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="526" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-02-28: 0 contributions</title>
-          <rect x="526" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="526" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-03-01: 0 contributions</title>
-          <rect x="541" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="541" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-03-02: 0 contributions</title>
-          <rect x="541" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="541" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-03-03: 0 contributions</title>
-          <rect x="541" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="541" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-03-04: 0 contributions</title>
-          <rect x="541" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="541" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-03-05: 0 contributions</title>
-          <rect x="541" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="541" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-03-06: 0 contributions</title>
-          <rect x="541" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="541" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-03-07: 0 contributions</title>
-          <rect x="541" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="541" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-03-08: 0 contributions</title>
-          <rect x="556" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="556" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-03-09: 0 contributions</title>
-          <rect x="556" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="556" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-03-10: 0 contributions</title>
-          <rect x="556" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="556" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-03-11: 0 contributions</title>
-          <rect x="556" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="556" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-03-12: 0 contributions</title>
-          <rect x="556" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="556" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-03-13: 0 contributions</title>
-          <rect x="556" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="556" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-03-14: 0 contributions</title>
-          <rect x="556" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="556" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-03-15: 0 contributions</title>
-          <rect x="571" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="571" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-03-16: 0 contributions</title>
-          <rect x="571" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="571" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-03-17: 0 contributions</title>
-          <rect x="571" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-            <animate attributeName="fill" values="#161b2d;#fff4b8;#c99a35;#161b2d" begin="23.10s" dur="14.72s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-            <animate attributeName="opacity" values=".42;0.88;.72;.42" begin="23.10s" dur="14.72s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-          </rect>
+          <rect x="571" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-03-18: 0 contributions</title>
-          <rect x="571" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="571" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-03-19: 0 contributions</title>
-          <rect x="571" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="571" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-03-20: 0 contributions</title>
-          <rect x="571" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="571" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-03-21: 0 contributions</title>
-          <rect x="571" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="571" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-03-22: 0 contributions</title>
-          <rect x="586" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="586" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-03-23: 0 contributions</title>
-          <rect x="586" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="586" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-03-24: 0 contributions</title>
-          <rect x="586" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="586" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-03-25: 0 contributions</title>
-          <rect x="586" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="586" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-03-26: 0 contributions</title>
-          <rect x="586" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="586" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-03-27: 0 contributions</title>
-          <rect x="586" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="586" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-03-28: 0 contributions</title>
-          <rect x="586" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="586" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-03-29: 0 contributions</title>
-          <rect x="601" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="601" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-03-30: 0 contributions</title>
-          <rect x="601" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="601" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-03-31: 0 contributions</title>
-          <rect x="601" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="601" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-04-01: 0 contributions</title>
-          <rect x="601" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="601" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-04-02: 0 contributions</title>
-          <rect x="601" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="601" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-04-03: 0 contributions</title>
-          <rect x="601" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="601" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-04-04: 0 contributions</title>
-          <rect x="601" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="601" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-04-05: 0 contributions</title>
-          <rect x="616" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="616" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-04-06: 0 contributions</title>
-          <rect x="616" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="616" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-04-07: 0 contributions</title>
-          <rect x="616" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="616" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-04-08: 0 contributions</title>
-          <rect x="616" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="616" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-04-09: 0 contributions</title>
-          <rect x="616" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="616" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-04-10: 0 contributions</title>
-          <rect x="616" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="616" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-04-11: 0 contributions</title>
-          <rect x="616" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="616" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-04-12: 0 contributions</title>
-          <rect x="631" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="631" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-04-13: 0 contributions</title>
-          <rect x="631" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="631" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-04-14: 0 contributions</title>
-          <rect x="631" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="631" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-04-15: 0 contributions</title>
-          <rect x="631" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="631" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-04-16: 0 contributions</title>
-          <rect x="631" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="631" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-04-17: 0 contributions</title>
-          <rect x="631" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="631" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-04-18: 0 contributions</title>
-          <rect x="631" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="631" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-04-19: 0 contributions</title>
-          <rect x="646" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="646" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-04-20: 0 contributions</title>
-          <rect x="646" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="646" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-04-21: 0 contributions</title>
-          <rect x="646" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="646" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-04-22: 0 contributions</title>
-          <rect x="646" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="646" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-04-23: 0 contributions</title>
-          <rect x="646" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="646" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-04-24: 0 contributions</title>
-          <rect x="646" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="646" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-04-25: 0 contributions</title>
-          <rect x="646" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="646" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-04-26: 0 contributions</title>
-          <rect x="661" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="661" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-04-27: 0 contributions</title>
-          <rect x="661" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="661" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-04-28: 0 contributions</title>
-          <rect x="661" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="661" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-04-29: 0 contributions</title>
-          <rect x="661" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="661" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-04-30: 0 contributions</title>
-          <rect x="661" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="661" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-05-01: 0 contributions</title>
-          <rect x="661" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="661" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-05-02: 0 contributions</title>
-          <rect x="661" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="661" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-05-03: 0 contributions</title>
-          <rect x="676" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="676" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-05-04: 0 contributions</title>
-          <rect x="676" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-            <animate attributeName="fill" values="#161b2d;#fff4b8;#c99a35;#161b2d" begin="28.45s" dur="2.95s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-            <animate attributeName="opacity" values=".42;0.96;.72;.42" begin="28.45s" dur="2.95s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-          </rect>
+          <rect x="676" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-05-05: 0 contributions</title>
-          <rect x="676" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="676" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-05-06: 0 contributions</title>
-          <rect x="676" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="676" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-05-07: 0 contributions</title>
-          <rect x="676" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="676" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-05-08: 0 contributions</title>
-          <rect x="676" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="676" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-05-09: 0 contributions</title>
-          <rect x="676" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="676" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-05-10: 0 contributions</title>
-          <rect x="691" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="691" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-05-11: 0 contributions</title>
-          <rect x="691" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="691" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-05-12: 0 contributions</title>
-          <rect x="691" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="691" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-05-13: 0 contributions</title>
-          <rect x="691" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="691" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-05-14: 0 contributions</title>
-          <rect x="691" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="691" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-05-15: 0 contributions</title>
-          <rect x="691" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="691" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-05-16: 0 contributions</title>
-          <rect x="691" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-            <animate attributeName="fill" values="#161b2d;#fff4b8;#c99a35;#161b2d" begin="1.74s" dur="2.94s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-            <animate attributeName="opacity" values=".42;0.89;.72;.42" begin="1.74s" dur="2.94s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-          </rect>
+          <rect x="691" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-05-17: 0 contributions</title>
-          <rect x="706" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="706" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-05-18: 0 contributions</title>
-          <rect x="706" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="706" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-05-19: 0 contributions</title>
-          <rect x="706" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="706" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-05-20: 0 contributions</title>
-          <rect x="706" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="706" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-05-21: 0 contributions</title>
-          <rect x="706" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="706" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-05-22: 0 contributions</title>
-          <rect x="706" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="706" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-05-23: 0 contributions</title>
-          <rect x="706" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="706" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-05-24: 0 contributions</title>
-          <rect x="721" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="721" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-05-25: 0 contributions</title>
-          <rect x="721" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="721" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-05-26: 0 contributions</title>
-          <rect x="721" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="721" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-05-27: 0 contributions</title>
-          <rect x="721" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="721" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-05-28: 0 contributions</title>
-          <rect x="721" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="721" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-05-29: 0 contributions</title>
-          <rect x="721" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="721" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-05-30: 0 contributions</title>
-          <rect x="721" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="721" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-05-31: 0 contributions</title>
-          <rect x="736" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="736" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-06-01: 0 contributions</title>
-          <rect x="736" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="736" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-06-02: 0 contributions</title>
-          <rect x="736" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="736" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-06-03: 0 contributions</title>
-          <rect x="736" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="736" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-06-04: 0 contributions</title>
-          <rect x="736" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="736" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-06-05: 0 contributions</title>
-          <rect x="736" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="736" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-06-06: 0 contributions</title>
-          <rect x="736" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="736" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-06-07: 0 contributions</title>
-          <rect x="751" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="751" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-06-08: 0 contributions</title>
-          <rect x="751" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="751" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-06-09: 0 contributions</title>
-          <rect x="751" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="751" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-06-10: 0 contributions</title>
-          <rect x="751" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="751" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-06-11: 0 contributions</title>
-          <rect x="751" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="751" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-06-12: 0 contributions</title>
-          <rect x="751" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="751" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-06-13: 0 contributions</title>
-          <rect x="751" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="751" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-06-14: 0 contributions</title>
-          <rect x="766" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="766" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-06-15: 0 contributions</title>
-          <rect x="766" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="766" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-06-16: 0 contributions</title>
-          <rect x="766" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="766" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-06-17: 0 contributions</title>
-          <rect x="766" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="766" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-06-18: 0 contributions</title>
-          <rect x="766" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="766" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-06-19: 0 contributions</title>
-          <rect x="766" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="766" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-06-20: 0 contributions</title>
-          <rect x="766" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="766" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-06-21: 0 contributions</title>
-          <rect x="781" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="781" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-06-22: 0 contributions</title>
-          <rect x="781" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="781" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-06-23: 0 contributions</title>
-          <rect x="781" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="781" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-06-24: 0 contributions</title>
-          <rect x="781" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="781" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-06-25: 0 contributions</title>
-          <rect x="781" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="781" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-06-26: 0 contributions</title>
-          <rect x="781" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="781" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-06-27: 0 contributions</title>
-          <rect x="781" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="781" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-06-28: 0 contributions</title>
-          <rect x="796" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="796" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-06-29: 0 contributions</title>
-          <rect x="796" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="796" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-06-30: 0 contributions</title>
-          <rect x="796" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="796" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-07-01: 0 contributions</title>
-          <rect x="796" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="796" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-07-02: 0 contributions</title>
-          <rect x="796" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="796" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-07-03: 0 contributions</title>
-          <rect x="796" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="796" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-07-04: 0 contributions</title>
-          <rect x="796" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="796" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-07-05: 0 contributions</title>
-          <rect x="811" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="811" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-07-06: 0 contributions</title>
-          <rect x="811" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="811" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-07-07: 0 contributions</title>
-          <rect x="811" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="811" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-07-08: 0 contributions</title>
-          <rect x="811" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="811" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-07-09: 0 contributions</title>
-          <rect x="811" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="811" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-07-10: 0 contributions</title>
-          <rect x="811" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="811" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-07-11: 0 contributions</title>
-          <rect x="811" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="811" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-07-12: 0 contributions</title>
-          <rect x="826" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="826" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-07-13: 10 contributions</title>
-          <rect x="826" y="71" width="11" height="11" rx="2" fill="#4aa7ff" opacity=".78" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="826" y="71" width="11" height="11" rx="2" fill="#1767c2" opacity=".78" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-07-14: 7 contributions</title>
-          <rect x="826" y="86" width="11" height="11" rx="2" fill="#4aa7ff" opacity=".78" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="826" y="86" width="11" height="11" rx="2" fill="#1767c2" opacity=".78" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-07-15: 12 contributions</title>
-          <rect x="826" y="101" width="11" height="11" rx="2" fill="#4aa7ff" opacity=".78" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="826" y="101" width="11" height="11" rx="2" fill="#1767c2" opacity=".78" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
           <title>2026-07-16: 16 contributions</title>
-          <rect x="826" y="116" width="11" height="11" rx="2" fill="#1767c2" opacity=".78" stroke="#23283a" stroke-width="1">
-          </rect>
+          <rect x="826" y="116" width="11" height="11" rx="2" fill="#4aa7ff" opacity=".78" stroke="#23283a" stroke-width="1" />
         </g>
 
         <g>
-          <title>2026-07-17: 24 contributions</title>
-          <rect x="826" y="131" width="11" height="11" rx="2" fill="#073b8e" opacity=".78" stroke="#23283a" stroke-width="1">
-            <animate attributeName="fill" values="#073b8e;#fff4b8;#c99a35;#073b8e" begin="28.77s" dur="18.51s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-            <animate attributeName="opacity" values=".78;0.91;.72;.78" begin="28.77s" dur="18.51s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-          </rect>
+          <title>2026-07-17: 25 contributions</title>
+          <rect x="826" y="131" width="11" height="11" rx="2" fill="#9bdcff" opacity=".78" stroke="#23283a" stroke-width="1" />
         </g>
+  </g>
+  <g shape-rendering="geometricPrecision">
+    
+      <rect width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
+        <animate attributeName="x" values="196;196;196;706;706;706;481;481;481;751;751;751;496;496;496;301;301;301;106;106;106;406;406;406;211;211;211;346;346;346;76;76;76;691;691;691;661;661;661;166;166;166;616;616;616;421;421;421;46;46;46;256;256;256;196" keyTimes="0.0000;0.0178;0.0378;0.0556;0.0733;0.0933;0.1111;0.1289;0.1489;0.1667;0.1844;0.2044;0.2222;0.2400;0.2600;0.2778;0.2956;0.3156;0.3333;0.3511;0.3711;0.3889;0.4067;0.4267;0.4444;0.4622;0.4822;0.5000;0.5178;0.5378;0.5556;0.5733;0.5933;0.6111;0.6289;0.6489;0.6667;0.6844;0.7044;0.7222;0.7400;0.7600;0.7778;0.7956;0.8156;0.8333;0.8511;0.8711;0.8889;0.9067;0.9267;0.9444;0.9622;0.9822;1" dur="53.58s" begin="-22.14s" repeatCount="indefinite" calcMode="discrete" />
+        <animate attributeName="y" values="86;86;86;101;101;101;71;71;71;101;101;101;101;101;101;116;116;116;56;56;56;56;56;56;131;131;131;56;56;56;56;56;56;131;131;131;86;86;86;101;101;101;101;101;101;56;56;56;101;101;101;116;116;116;86" keyTimes="0.0000;0.0178;0.0378;0.0556;0.0733;0.0933;0.1111;0.1289;0.1489;0.1667;0.1844;0.2044;0.2222;0.2400;0.2600;0.2778;0.2956;0.3156;0.3333;0.3511;0.3711;0.3889;0.4067;0.4267;0.4444;0.4622;0.4822;0.5000;0.5178;0.5378;0.5556;0.5733;0.5933;0.6111;0.6289;0.6489;0.6667;0.6844;0.7044;0.7222;0.7400;0.7600;0.7778;0.7956;0.8156;0.8333;0.8511;0.8711;0.8889;0.9067;0.9267;0.9444;0.9622;0.9822;1" dur="53.58s" begin="-22.14s" repeatCount="indefinite" calcMode="discrete" />
+        <animate attributeName="fill" values="#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35" keyTimes="0.0000;0.0178;0.0378;0.0556;0.0733;0.0933;0.1111;0.1289;0.1489;0.1667;0.1844;0.2044;0.2222;0.2400;0.2600;0.2778;0.2956;0.3156;0.3333;0.3511;0.3711;0.3889;0.4067;0.4267;0.4444;0.4622;0.4822;0.5000;0.5178;0.5378;0.5556;0.5733;0.5933;0.6111;0.6289;0.6489;0.6667;0.6844;0.7044;0.7222;0.7400;0.7600;0.7778;0.7956;0.8156;0.8333;0.8511;0.8711;0.8889;0.9067;0.9267;0.9444;0.9622;0.9822;1" dur="53.58s" begin="-22.14s" repeatCount="indefinite" calcMode="linear" />
+        <animate attributeName="opacity" values="0;1.00;0;0;0.97;0;0;0.87;0;0;0.88;0;0;0.84;0;0;0.85;0;0;0.98;0;0;0.92;0;0;0.86;0;0;0.90;0;0;0.92;0;0;0.92;0;0;0.91;0;0;0.91;0;0;0.92;0;0;0.88;0;0;0.91;0;0;0.84;0;0" keyTimes="0.0000;0.0178;0.0378;0.0556;0.0733;0.0933;0.1111;0.1289;0.1489;0.1667;0.1844;0.2044;0.2222;0.2400;0.2600;0.2778;0.2956;0.3156;0.3333;0.3511;0.3711;0.3889;0.4067;0.4267;0.4444;0.4622;0.4822;0.5000;0.5178;0.5378;0.5556;0.5733;0.5933;0.6111;0.6289;0.6489;0.6667;0.6844;0.7044;0.7222;0.7400;0.7600;0.7778;0.7956;0.8156;0.8333;0.8511;0.8711;0.8889;0.9067;0.9267;0.9444;0.9622;0.9822;1" dur="53.58s" begin="-22.14s" repeatCount="indefinite" calcMode="linear" />
+      </rect>
+
+      <rect width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
+        <animate attributeName="x" values="346;346;346;46;46;46;601;601;601;361;361;361;346;346;346;226;226;226;526;526;526;646;646;646;736;736;736;376;376;376;136;136;136;586;586;586;526;526;526;151;151;151;166;166;166;511;511;511;481;481;481;241;241;241;346" keyTimes="0.0000;0.0178;0.0378;0.0556;0.0733;0.0933;0.1111;0.1289;0.1489;0.1667;0.1844;0.2044;0.2222;0.2400;0.2600;0.2778;0.2956;0.3156;0.3333;0.3511;0.3711;0.3889;0.4067;0.4267;0.4444;0.4622;0.4822;0.5000;0.5178;0.5378;0.5556;0.5733;0.5933;0.6111;0.6289;0.6489;0.6667;0.6844;0.7044;0.7222;0.7400;0.7600;0.7778;0.7956;0.8156;0.8333;0.8511;0.8711;0.8889;0.9067;0.9267;0.9444;0.9622;0.9822;1" dur="94.84s" begin="-82.52s" repeatCount="indefinite" calcMode="discrete" />
+        <animate attributeName="y" values="116;116;116;131;131;131;131;131;131;86;86;86;71;71;71;56;56;56;56;56;56;146;146;146;71;71;71;131;131;131;56;56;56;56;56;56;131;131;131;86;86;86;71;71;71;116;116;116;116;116;116;56;56;56;116" keyTimes="0.0000;0.0178;0.0378;0.0556;0.0733;0.0933;0.1111;0.1289;0.1489;0.1667;0.1844;0.2044;0.2222;0.2400;0.2600;0.2778;0.2956;0.3156;0.3333;0.3511;0.3711;0.3889;0.4067;0.4267;0.4444;0.4622;0.4822;0.5000;0.5178;0.5378;0.5556;0.5733;0.5933;0.6111;0.6289;0.6489;0.6667;0.6844;0.7044;0.7222;0.7400;0.7600;0.7778;0.7956;0.8156;0.8333;0.8511;0.8711;0.8889;0.9067;0.9267;0.9444;0.9622;0.9822;1" dur="94.84s" begin="-82.52s" repeatCount="indefinite" calcMode="discrete" />
+        <animate attributeName="fill" values="#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35" keyTimes="0.0000;0.0178;0.0378;0.0556;0.0733;0.0933;0.1111;0.1289;0.1489;0.1667;0.1844;0.2044;0.2222;0.2400;0.2600;0.2778;0.2956;0.3156;0.3333;0.3511;0.3711;0.3889;0.4067;0.4267;0.4444;0.4622;0.4822;0.5000;0.5178;0.5378;0.5556;0.5733;0.5933;0.6111;0.6289;0.6489;0.6667;0.6844;0.7044;0.7222;0.7400;0.7600;0.7778;0.7956;0.8156;0.8333;0.8511;0.8711;0.8889;0.9067;0.9267;0.9444;0.9622;0.9822;1" dur="94.84s" begin="-82.52s" repeatCount="indefinite" calcMode="linear" />
+        <animate attributeName="opacity" values="0;0.99;0;0;0.89;0;0;0.96;0;0;0.91;0;0;0.96;0;0;0.97;0;0;0.88;0;0;0.83;0;0;0.89;0;0;0.83;0;0;0.99;0;0;0.85;0;0;0.87;0;0;0.94;0;0;0.82;0;0;0.82;0;0;0.88;0;0;0.92;0;0" keyTimes="0.0000;0.0178;0.0378;0.0556;0.0733;0.0933;0.1111;0.1289;0.1489;0.1667;0.1844;0.2044;0.2222;0.2400;0.2600;0.2778;0.2956;0.3156;0.3333;0.3511;0.3711;0.3889;0.4067;0.4267;0.4444;0.4622;0.4822;0.5000;0.5178;0.5378;0.5556;0.5733;0.5933;0.6111;0.6289;0.6489;0.6667;0.6844;0.7044;0.7222;0.7400;0.7600;0.7778;0.7956;0.8156;0.8333;0.8511;0.8711;0.8889;0.9067;0.9267;0.9444;0.9622;0.9822;1" dur="94.84s" begin="-82.52s" repeatCount="indefinite" calcMode="linear" />
+      </rect>
+
+      <rect width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
+        <animate attributeName="x" values="151;151;151;91;91;91;706;706;706;736;736;736;91;91;91;601;601;601;91;91;91;451;451;451;631;631;631;616;616;616;736;736;736;526;526;526;661;661;661;616;616;616;586;586;586;331;331;331;526;526;526;76;76;76;151" keyTimes="0.0000;0.0178;0.0378;0.0556;0.0733;0.0933;0.1111;0.1289;0.1489;0.1667;0.1844;0.2044;0.2222;0.2400;0.2600;0.2778;0.2956;0.3156;0.3333;0.3511;0.3711;0.3889;0.4067;0.4267;0.4444;0.4622;0.4822;0.5000;0.5178;0.5378;0.5556;0.5733;0.5933;0.6111;0.6289;0.6489;0.6667;0.6844;0.7044;0.7222;0.7400;0.7600;0.7778;0.7956;0.8156;0.8333;0.8511;0.8711;0.8889;0.9067;0.9267;0.9444;0.9622;0.9822;1" dur="69.98s" begin="-24.49s" repeatCount="indefinite" calcMode="discrete" />
+        <animate attributeName="y" values="116;116;116;116;116;116;131;131;131;131;131;131;101;101;101;131;131;131;101;101;101;56;56;56;56;56;56;146;146;146;56;56;56;71;71;71;146;146;146;146;146;146;71;71;71;86;86;86;56;56;56;86;86;86;116" keyTimes="0.0000;0.0178;0.0378;0.0556;0.0733;0.0933;0.1111;0.1289;0.1489;0.1667;0.1844;0.2044;0.2222;0.2400;0.2600;0.2778;0.2956;0.3156;0.3333;0.3511;0.3711;0.3889;0.4067;0.4267;0.4444;0.4622;0.4822;0.5000;0.5178;0.5378;0.5556;0.5733;0.5933;0.6111;0.6289;0.6489;0.6667;0.6844;0.7044;0.7222;0.7400;0.7600;0.7778;0.7956;0.8156;0.8333;0.8511;0.8711;0.8889;0.9067;0.9267;0.9444;0.9622;0.9822;1" dur="69.98s" begin="-24.49s" repeatCount="indefinite" calcMode="discrete" />
+        <animate attributeName="fill" values="#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35" keyTimes="0.0000;0.0178;0.0378;0.0556;0.0733;0.0933;0.1111;0.1289;0.1489;0.1667;0.1844;0.2044;0.2222;0.2400;0.2600;0.2778;0.2956;0.3156;0.3333;0.3511;0.3711;0.3889;0.4067;0.4267;0.4444;0.4622;0.4822;0.5000;0.5178;0.5378;0.5556;0.5733;0.5933;0.6111;0.6289;0.6489;0.6667;0.6844;0.7044;0.7222;0.7400;0.7600;0.7778;0.7956;0.8156;0.8333;0.8511;0.8711;0.8889;0.9067;0.9267;0.9444;0.9622;0.9822;1" dur="69.98s" begin="-24.49s" repeatCount="indefinite" calcMode="linear" />
+        <animate attributeName="opacity" values="0;0.88;0;0;0.94;0;0;1.00;0;0;0.94;0;0;0.93;0;0;0.94;0;0;0.89;0;0;0.89;0;0;0.88;0;0;0.86;0;0;0.99;0;0;0.91;0;0;0.96;0;0;0.97;0;0;0.90;0;0;0.83;0;0;0.84;0;0;0.83;0;0" keyTimes="0.0000;0.0178;0.0378;0.0556;0.0733;0.0933;0.1111;0.1289;0.1489;0.1667;0.1844;0.2044;0.2222;0.2400;0.2600;0.2778;0.2956;0.3156;0.3333;0.3511;0.3711;0.3889;0.4067;0.4267;0.4444;0.4622;0.4822;0.5000;0.5178;0.5378;0.5556;0.5733;0.5933;0.6111;0.6289;0.6489;0.6667;0.6844;0.7044;0.7222;0.7400;0.7600;0.7778;0.7956;0.8156;0.8333;0.8511;0.8711;0.8889;0.9067;0.9267;0.9444;0.9622;0.9822;1" dur="69.98s" begin="-24.49s" repeatCount="indefinite" calcMode="linear" />
+      </rect>
+
+      <rect width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
+        <animate attributeName="x" values="436;436;436;46;46;46;736;736;736;796;796;796;496;496;496;541;541;541;571;571;571;76;76;76;616;616;616;451;451;451;61;61;61;241;241;241;376;376;376;481;481;481;571;571;571;61;61;61;796;796;796;181;181;181;436" keyTimes="0.0000;0.0178;0.0378;0.0556;0.0733;0.0933;0.1111;0.1289;0.1489;0.1667;0.1844;0.2044;0.2222;0.2400;0.2600;0.2778;0.2956;0.3156;0.3333;0.3511;0.3711;0.3889;0.4067;0.4267;0.4444;0.4622;0.4822;0.5000;0.5178;0.5378;0.5556;0.5733;0.5933;0.6111;0.6289;0.6489;0.6667;0.6844;0.7044;0.7222;0.7400;0.7600;0.7778;0.7956;0.8156;0.8333;0.8511;0.8711;0.8889;0.9067;0.9267;0.9444;0.9622;0.9822;1" dur="29.55s" begin="-13.14s" repeatCount="indefinite" calcMode="discrete" />
+        <animate attributeName="y" values="56;56;56;71;71;71;86;86;86;131;131;131;86;86;86;146;146;146;146;146;146;116;116;116;56;56;56;116;116;116;101;101;101;56;56;56;56;56;56;86;86;86;116;116;116;86;86;86;101;101;101;101;101;101;56" keyTimes="0.0000;0.0178;0.0378;0.0556;0.0733;0.0933;0.1111;0.1289;0.1489;0.1667;0.1844;0.2044;0.2222;0.2400;0.2600;0.2778;0.2956;0.3156;0.3333;0.3511;0.3711;0.3889;0.4067;0.4267;0.4444;0.4622;0.4822;0.5000;0.5178;0.5378;0.5556;0.5733;0.5933;0.6111;0.6289;0.6489;0.6667;0.6844;0.7044;0.7222;0.7400;0.7600;0.7778;0.7956;0.8156;0.8333;0.8511;0.8711;0.8889;0.9067;0.9267;0.9444;0.9622;0.9822;1" dur="29.55s" begin="-13.14s" repeatCount="indefinite" calcMode="discrete" />
+        <animate attributeName="fill" values="#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35" keyTimes="0.0000;0.0178;0.0378;0.0556;0.0733;0.0933;0.1111;0.1289;0.1489;0.1667;0.1844;0.2044;0.2222;0.2400;0.2600;0.2778;0.2956;0.3156;0.3333;0.3511;0.3711;0.3889;0.4067;0.4267;0.4444;0.4622;0.4822;0.5000;0.5178;0.5378;0.5556;0.5733;0.5933;0.6111;0.6289;0.6489;0.6667;0.6844;0.7044;0.7222;0.7400;0.7600;0.7778;0.7956;0.8156;0.8333;0.8511;0.8711;0.8889;0.9067;0.9267;0.9444;0.9622;0.9822;1" dur="29.55s" begin="-13.14s" repeatCount="indefinite" calcMode="linear" />
+        <animate attributeName="opacity" values="0;0.87;0;0;0.86;0;0;0.93;0;0;0.83;0;0;0.82;0;0;0.99;0;0;0.88;0;0;0.97;0;0;0.89;0;0;0.98;0;0;0.84;0;0;0.91;0;0;0.86;0;0;0.87;0;0;0.99;0;0;0.85;0;0;0.96;0;0;0.97;0;0" keyTimes="0.0000;0.0178;0.0378;0.0556;0.0733;0.0933;0.1111;0.1289;0.1489;0.1667;0.1844;0.2044;0.2222;0.2400;0.2600;0.2778;0.2956;0.3156;0.3333;0.3511;0.3711;0.3889;0.4067;0.4267;0.4444;0.4622;0.4822;0.5000;0.5178;0.5378;0.5556;0.5733;0.5933;0.6111;0.6289;0.6489;0.6667;0.6844;0.7044;0.7222;0.7400;0.7600;0.7778;0.7956;0.8156;0.8333;0.8511;0.8711;0.8889;0.9067;0.9267;0.9444;0.9622;0.9822;1" dur="29.55s" begin="-13.14s" repeatCount="indefinite" calcMode="linear" />
+      </rect>
+
+      <rect width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
+        <animate attributeName="x" values="511;511;511;691;691;691;616;616;616;301;301;301;811;811;811;766;766;766;481;481;481;571;571;571;631;631;631;91;91;91;301;301;301;316;316;316;601;601;601;271;271;271;436;436;436;751;751;751;316;316;316;106;106;106;511" keyTimes="0.0000;0.0178;0.0378;0.0556;0.0733;0.0933;0.1111;0.1289;0.1489;0.1667;0.1844;0.2044;0.2222;0.2400;0.2600;0.2778;0.2956;0.3156;0.3333;0.3511;0.3711;0.3889;0.4067;0.4267;0.4444;0.4622;0.4822;0.5000;0.5178;0.5378;0.5556;0.5733;0.5933;0.6111;0.6289;0.6489;0.6667;0.6844;0.7044;0.7222;0.7400;0.7600;0.7778;0.7956;0.8156;0.8333;0.8511;0.8711;0.8889;0.9067;0.9267;0.9444;0.9622;0.9822;1" dur="78.93s" begin="-62.77s" repeatCount="indefinite" calcMode="discrete" />
+        <animate attributeName="y" values="146;146;146;86;86;86;116;116;116;71;71;71;56;56;56;86;86;86;101;101;101;116;116;116;56;56;56;146;146;146;56;56;56;86;86;86;71;71;71;101;101;101;86;86;86;116;116;116;146;146;146;116;116;116;146" keyTimes="0.0000;0.0178;0.0378;0.0556;0.0733;0.0933;0.1111;0.1289;0.1489;0.1667;0.1844;0.2044;0.2222;0.2400;0.2600;0.2778;0.2956;0.3156;0.3333;0.3511;0.3711;0.3889;0.4067;0.4267;0.4444;0.4622;0.4822;0.5000;0.5178;0.5378;0.5556;0.5733;0.5933;0.6111;0.6289;0.6489;0.6667;0.6844;0.7044;0.7222;0.7400;0.7600;0.7778;0.7956;0.8156;0.8333;0.8511;0.8711;0.8889;0.9067;0.9267;0.9444;0.9622;0.9822;1" dur="78.93s" begin="-62.77s" repeatCount="indefinite" calcMode="discrete" />
+        <animate attributeName="fill" values="#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35" keyTimes="0.0000;0.0178;0.0378;0.0556;0.0733;0.0933;0.1111;0.1289;0.1489;0.1667;0.1844;0.2044;0.2222;0.2400;0.2600;0.2778;0.2956;0.3156;0.3333;0.3511;0.3711;0.3889;0.4067;0.4267;0.4444;0.4622;0.4822;0.5000;0.5178;0.5378;0.5556;0.5733;0.5933;0.6111;0.6289;0.6489;0.6667;0.6844;0.7044;0.7222;0.7400;0.7600;0.7778;0.7956;0.8156;0.8333;0.8511;0.8711;0.8889;0.9067;0.9267;0.9444;0.9622;0.9822;1" dur="78.93s" begin="-62.77s" repeatCount="indefinite" calcMode="linear" />
+        <animate attributeName="opacity" values="0;0.97;0;0;0.92;0;0;0.83;0;0;0.90;0;0;0.90;0;0;0.95;0;0;0.99;0;0;0.88;0;0;0.87;0;0;0.98;0;0;0.97;0;0;0.90;0;0;0.85;0;0;0.91;0;0;0.82;0;0;0.91;0;0;0.97;0;0;0.88;0;0" keyTimes="0.0000;0.0178;0.0378;0.0556;0.0733;0.0933;0.1111;0.1289;0.1489;0.1667;0.1844;0.2044;0.2222;0.2400;0.2600;0.2778;0.2956;0.3156;0.3333;0.3511;0.3711;0.3889;0.4067;0.4267;0.4444;0.4622;0.4822;0.5000;0.5178;0.5378;0.5556;0.5733;0.5933;0.6111;0.6289;0.6489;0.6667;0.6844;0.7044;0.7222;0.7400;0.7600;0.7778;0.7956;0.8156;0.8333;0.8511;0.8711;0.8889;0.9067;0.9267;0.9444;0.9622;0.9822;1" dur="78.93s" begin="-62.77s" repeatCount="indefinite" calcMode="linear" />
+      </rect>
+
+      <rect width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
+        <animate attributeName="x" values="421;421;421;421;421;421;331;331;331;556;556;556;211;211;211;376;376;376;721;721;721;601;601;601;631;631;631;481;481;481;466;466;466;481;481;481;631;631;631;481;481;481;421;421;421;211;211;211;541;541;541;256;256;256;421" keyTimes="0.0000;0.0178;0.0378;0.0556;0.0733;0.0933;0.1111;0.1289;0.1489;0.1667;0.1844;0.2044;0.2222;0.2400;0.2600;0.2778;0.2956;0.3156;0.3333;0.3511;0.3711;0.3889;0.4067;0.4267;0.4444;0.4622;0.4822;0.5000;0.5178;0.5378;0.5556;0.5733;0.5933;0.6111;0.6289;0.6489;0.6667;0.6844;0.7044;0.7222;0.7400;0.7600;0.7778;0.7956;0.8156;0.8333;0.8511;0.8711;0.8889;0.9067;0.9267;0.9444;0.9622;0.9822;1" dur="94.17s" begin="-82.02s" repeatCount="indefinite" calcMode="discrete" />
+        <animate attributeName="y" values="56;56;56;86;86;86;131;131;131;116;116;116;146;146;146;71;71;71;146;146;146;101;101;101;146;146;146;116;116;116;56;56;56;146;146;146;116;116;116;71;71;71;71;71;71;131;131;131;146;146;146;131;131;131;56" keyTimes="0.0000;0.0178;0.0378;0.0556;0.0733;0.0933;0.1111;0.1289;0.1489;0.1667;0.1844;0.2044;0.2222;0.2400;0.2600;0.2778;0.2956;0.3156;0.3333;0.3511;0.3711;0.3889;0.4067;0.4267;0.4444;0.4622;0.4822;0.5000;0.5178;0.5378;0.5556;0.5733;0.5933;0.6111;0.6289;0.6489;0.6667;0.6844;0.7044;0.7222;0.7400;0.7600;0.7778;0.7956;0.8156;0.8333;0.8511;0.8711;0.8889;0.9067;0.9267;0.9444;0.9622;0.9822;1" dur="94.17s" begin="-82.02s" repeatCount="indefinite" calcMode="discrete" />
+        <animate attributeName="fill" values="#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35" keyTimes="0.0000;0.0178;0.0378;0.0556;0.0733;0.0933;0.1111;0.1289;0.1489;0.1667;0.1844;0.2044;0.2222;0.2400;0.2600;0.2778;0.2956;0.3156;0.3333;0.3511;0.3711;0.3889;0.4067;0.4267;0.4444;0.4622;0.4822;0.5000;0.5178;0.5378;0.5556;0.5733;0.5933;0.6111;0.6289;0.6489;0.6667;0.6844;0.7044;0.7222;0.7400;0.7600;0.7778;0.7956;0.8156;0.8333;0.8511;0.8711;0.8889;0.9067;0.9267;0.9444;0.9622;0.9822;1" dur="94.17s" begin="-82.02s" repeatCount="indefinite" calcMode="linear" />
+        <animate attributeName="opacity" values="0;0.90;0;0;0.88;0;0;0.94;0;0;0.99;0;0;0.99;0;0;0.94;0;0;0.86;0;0;0.93;0;0;0.97;0;0;0.88;0;0;0.93;0;0;0.96;0;0;0.91;0;0;0.82;0;0;0.83;0;0;0.96;0;0;0.89;0;0;0.91;0;0" keyTimes="0.0000;0.0178;0.0378;0.0556;0.0733;0.0933;0.1111;0.1289;0.1489;0.1667;0.1844;0.2044;0.2222;0.2400;0.2600;0.2778;0.2956;0.3156;0.3333;0.3511;0.3711;0.3889;0.4067;0.4267;0.4444;0.4622;0.4822;0.5000;0.5178;0.5378;0.5556;0.5733;0.5933;0.6111;0.6289;0.6489;0.6667;0.6844;0.7044;0.7222;0.7400;0.7600;0.7778;0.7956;0.8156;0.8333;0.8511;0.8711;0.8889;0.9067;0.9267;0.9444;0.9622;0.9822;1" dur="94.17s" begin="-82.02s" repeatCount="indefinite" calcMode="linear" />
+      </rect>
+
+      <rect width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
+        <animate attributeName="x" values="286;286;286;766;766;766;646;646;646;496;496;496;256;256;256;136;136;136;616;616;616;451;451;451;571;571;571;196;196;196;391;391;391;496;496;496;586;586;586;106;106;106;826;826;826;286;286;286;511;511;511;136;136;136;286" keyTimes="0.0000;0.0178;0.0378;0.0556;0.0733;0.0933;0.1111;0.1289;0.1489;0.1667;0.1844;0.2044;0.2222;0.2400;0.2600;0.2778;0.2956;0.3156;0.3333;0.3511;0.3711;0.3889;0.4067;0.4267;0.4444;0.4622;0.4822;0.5000;0.5178;0.5378;0.5556;0.5733;0.5933;0.6111;0.6289;0.6489;0.6667;0.6844;0.7044;0.7222;0.7400;0.7600;0.7778;0.7956;0.8156;0.8333;0.8511;0.8711;0.8889;0.9067;0.9267;0.9444;0.9622;0.9822;1" dur="62.27s" begin="-16.19s" repeatCount="indefinite" calcMode="discrete" />
+        <animate attributeName="y" values="86;86;86;146;146;146;131;131;131;56;56;56;131;131;131;86;86;86;71;71;71;86;86;86;101;101;101;56;56;56;116;116;116;116;116;116;101;101;101;116;116;116;56;56;56;116;116;116;101;101;101;56;56;56;86" keyTimes="0.0000;0.0178;0.0378;0.0556;0.0733;0.0933;0.1111;0.1289;0.1489;0.1667;0.1844;0.2044;0.2222;0.2400;0.2600;0.2778;0.2956;0.3156;0.3333;0.3511;0.3711;0.3889;0.4067;0.4267;0.4444;0.4622;0.4822;0.5000;0.5178;0.5378;0.5556;0.5733;0.5933;0.6111;0.6289;0.6489;0.6667;0.6844;0.7044;0.7222;0.7400;0.7600;0.7778;0.7956;0.8156;0.8333;0.8511;0.8711;0.8889;0.9067;0.9267;0.9444;0.9622;0.9822;1" dur="62.27s" begin="-16.19s" repeatCount="indefinite" calcMode="discrete" />
+        <animate attributeName="fill" values="#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35" keyTimes="0.0000;0.0178;0.0378;0.0556;0.0733;0.0933;0.1111;0.1289;0.1489;0.1667;0.1844;0.2044;0.2222;0.2400;0.2600;0.2778;0.2956;0.3156;0.3333;0.3511;0.3711;0.3889;0.4067;0.4267;0.4444;0.4622;0.4822;0.5000;0.5178;0.5378;0.5556;0.5733;0.5933;0.6111;0.6289;0.6489;0.6667;0.6844;0.7044;0.7222;0.7400;0.7600;0.7778;0.7956;0.8156;0.8333;0.8511;0.8711;0.8889;0.9067;0.9267;0.9444;0.9622;0.9822;1" dur="62.27s" begin="-16.19s" repeatCount="indefinite" calcMode="linear" />
+        <animate attributeName="opacity" values="0;0.94;0;0;0.82;0;0;0.92;0;0;0.87;0;0;0.97;0;0;0.97;0;0;0.88;0;0;0.84;0;0;0.88;0;0;0.88;0;0;0.89;0;0;0.83;0;0;0.91;0;0;0.91;0;0;1.00;0;0;0.85;0;0;0.84;0;0;0.86;0;0" keyTimes="0.0000;0.0178;0.0378;0.0556;0.0733;0.0933;0.1111;0.1289;0.1489;0.1667;0.1844;0.2044;0.2222;0.2400;0.2600;0.2778;0.2956;0.3156;0.3333;0.3511;0.3711;0.3889;0.4067;0.4267;0.4444;0.4622;0.4822;0.5000;0.5178;0.5378;0.5556;0.5733;0.5933;0.6111;0.6289;0.6489;0.6667;0.6844;0.7044;0.7222;0.7400;0.7600;0.7778;0.7956;0.8156;0.8333;0.8511;0.8711;0.8889;0.9067;0.9267;0.9444;0.9622;0.9822;1" dur="62.27s" begin="-16.19s" repeatCount="indefinite" calcMode="linear" />
+      </rect>
+
+      <rect width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
+        <animate attributeName="x" values="211;211;211;76;76;76;736;736;736;646;646;646;121;121;121;796;796;796;241;241;241;376;376;376;421;421;421;151;151;151;676;676;676;91;91;91;541;541;541;466;466;466;286;286;286;376;376;376;76;76;76;106;106;106;211" keyTimes="0.0000;0.0178;0.0378;0.0556;0.0733;0.0933;0.1111;0.1289;0.1489;0.1667;0.1844;0.2044;0.2222;0.2400;0.2600;0.2778;0.2956;0.3156;0.3333;0.3511;0.3711;0.3889;0.4067;0.4267;0.4444;0.4622;0.4822;0.5000;0.5178;0.5378;0.5556;0.5733;0.5933;0.6111;0.6289;0.6489;0.6667;0.6844;0.7044;0.7222;0.7400;0.7600;0.7778;0.7956;0.8156;0.8333;0.8511;0.8711;0.8889;0.9067;0.9267;0.9444;0.9622;0.9822;1" dur="63.37s" begin="-55.38s" repeatCount="indefinite" calcMode="discrete" />
+        <animate attributeName="y" values="116;116;116;86;86;86;146;146;146;71;71;71;146;146;146;116;116;116;71;71;71;86;86;86;116;116;116;56;56;56;131;131;131;86;86;86;146;146;146;101;101;101;56;56;56;101;101;101;101;101;101;101;101;101;116" keyTimes="0.0000;0.0178;0.0378;0.0556;0.0733;0.0933;0.1111;0.1289;0.1489;0.1667;0.1844;0.2044;0.2222;0.2400;0.2600;0.2778;0.2956;0.3156;0.3333;0.3511;0.3711;0.3889;0.4067;0.4267;0.4444;0.4622;0.4822;0.5000;0.5178;0.5378;0.5556;0.5733;0.5933;0.6111;0.6289;0.6489;0.6667;0.6844;0.7044;0.7222;0.7400;0.7600;0.7778;0.7956;0.8156;0.8333;0.8511;0.8711;0.8889;0.9067;0.9267;0.9444;0.9622;0.9822;1" dur="63.37s" begin="-55.38s" repeatCount="indefinite" calcMode="discrete" />
+        <animate attributeName="fill" values="#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35;#fff4b8;#c99a35;#c99a35" keyTimes="0.0000;0.0178;0.0378;0.0556;0.0733;0.0933;0.1111;0.1289;0.1489;0.1667;0.1844;0.2044;0.2222;0.2400;0.2600;0.2778;0.2956;0.3156;0.3333;0.3511;0.3711;0.3889;0.4067;0.4267;0.4444;0.4622;0.4822;0.5000;0.5178;0.5378;0.5556;0.5733;0.5933;0.6111;0.6289;0.6489;0.6667;0.6844;0.7044;0.7222;0.7400;0.7600;0.7778;0.7956;0.8156;0.8333;0.8511;0.8711;0.8889;0.9067;0.9267;0.9444;0.9622;0.9822;1" dur="63.37s" begin="-55.38s" repeatCount="indefinite" calcMode="linear" />
+        <animate attributeName="opacity" values="0;0.87;0;0;0.85;0;0;0.98;0;0;0.86;0;0;0.95;0;0;0.89;0;0;0.97;0;0;0.98;0;0;1.00;0;0;0.98;0;0;0.96;0;0;0.90;0;0;0.97;0;0;0.97;0;0;0.96;0;0;0.89;0;0;0.94;0;0;0.85;0;0" keyTimes="0.0000;0.0178;0.0378;0.0556;0.0733;0.0933;0.1111;0.1289;0.1489;0.1667;0.1844;0.2044;0.2222;0.2400;0.2600;0.2778;0.2956;0.3156;0.3333;0.3511;0.3711;0.3889;0.4067;0.4267;0.4444;0.4622;0.4822;0.5000;0.5178;0.5378;0.5556;0.5733;0.5933;0.6111;0.6289;0.6489;0.6667;0.6844;0.7044;0.7222;0.7400;0.7600;0.7778;0.7956;0.8156;0.8333;0.8511;0.8711;0.8889;0.9067;0.9267;0.9444;0.9622;0.9822;1" dur="63.37s" begin="-55.38s" repeatCount="indefinite" calcMode="linear" />
+      </rect>
   </g>
   <g transform="translate(675, 169)" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="10" fill="#9aa6b2">
     <text x="0" y="9">Less</text>
     <rect x="28" y="0" width="10" height="10" rx="2" fill="#161b2d" stroke="#23283a" stroke-width="1" />
-    <rect x="43" y="0" width="10" height="10" rx="2" fill="#9bdcff" opacity=".78" />
-    <rect x="58" y="0" width="10" height="10" rx="2" fill="#4aa7ff" opacity=".78" />
-    <rect x="73" y="0" width="10" height="10" rx="2" fill="#1767c2" opacity=".78" />
-    <rect x="88" y="0" width="10" height="10" rx="2" fill="#073b8e" opacity=".78" />
+    <rect x="43" y="0" width="10" height="10" rx="2" fill="#073b8e" opacity=".78" />
+    <rect x="58" y="0" width="10" height="10" rx="2" fill="#1767c2" opacity=".78" />
+    <rect x="73" y="0" width="10" height="10" rx="2" fill="#4aa7ff" opacity=".78" />
+    <rect x="88" y="0" width="10" height="10" rx="2" fill="#9bdcff" opacity=".78" />
     <text x="106" y="9">More</text>
   </g>
 </svg>
