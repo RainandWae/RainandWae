@@ -182,38 +182,38 @@ function renderMovingStars(weeks, left, top, cell, gap) {
       const peakOpacity = (0.76 + randomUnit((starIndex + 1) * 353 + (positionIndex + 1) * 1471) * 0.2).toFixed(2);
       const keyTimes = [];
       const opacityValues = [];
-      const fillValues = [];
 
       if (pulseStart > 0) {
         keyTimes.push("0", pulseStart.toFixed(4));
         opacityValues.push("0", "0");
-        fillValues.push(palette.starMid, palette.starMid);
       } else {
         keyTimes.push("0");
         opacityValues.push("0");
-        fillValues.push(palette.starMid);
       }
 
       keyTimes.push(pulseLit.toFixed(4), pulseHold.toFixed(4), pulseEnd.toFixed(4));
       opacityValues.push(peakOpacity, peakOpacity, "0");
-      fillValues.push(palette.glow, palette.glow, palette.starMid);
 
       if (pulseEnd < 1) {
         keyTimes.push("1");
         opacityValues.push("0");
-        fillValues.push(palette.starMid);
       }
 
-      starCells.forEach(([columnOffset, rowOffset]) => {
+      const plusRects = starCells.map(([columnOffset, rowOffset]) => {
+        const isCenter = columnOffset === 0 && rowOffset === 0;
         const x = left + (weekIndex + columnOffset) * (cell + gap);
         const y = top + (weekday + rowOffset) * (cell + gap);
+        const fill = isCenter ? palette.glow : "#ffe08a";
+        const armOpacity = isCenter ? "1" : "0.88";
 
-        stars.push(`
-      <rect x="${x}" y="${y}" width="${cell}" height="${cell}" rx="2" fill="${palette.starMid}" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="${fillValues.join(";")}" keyTimes="${keyTimes.join(";")}" dur="${duration}s" begin="${begin}s" repeatCount="indefinite" calcMode="discrete" />
+        return `<rect x="${x}" y="${y}" width="${cell}" height="${cell}" rx="2" fill="${fill}" opacity="${armOpacity}" />`;
+      }).join("\n        ");
+
+      stars.push(`
+      <g opacity="0" pointer-events="none">
+        ${plusRects}
         <animate attributeName="opacity" values="${opacityValues.join(";")}" keyTimes="${keyTimes.join(";")}" dur="${duration}s" begin="${begin}s" repeatCount="indefinite" calcMode="linear" />
-      </rect>`);
-      });
+      </g>`);
     }
   }
 
