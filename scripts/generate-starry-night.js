@@ -151,12 +151,21 @@ function renderWeekdayLabels(left, top, cell, gap) {
 function renderMovingStars(weeks, left, top, cell, gap) {
   const starCount = 6;
   const positionsPerStar = 10;
+  const starCells = [
+    [0, 0],
+    [-1, 0],
+    [1, 0],
+    [0, -1],
+    [0, 1],
+  ];
   const fadeInSeconds = 1;
   const holdSeconds = 3;
   const fadeOutSeconds = 1;
   const segmentSeconds = fadeInSeconds + holdSeconds + fadeOutSeconds;
   const duration = positionsPerStar * segmentSeconds;
-  const totalCells = weeks.length * 7;
+  const innerColumns = Math.max(1, weeks.length - 2);
+  const innerRows = 5;
+  const totalInnerCells = innerColumns * innerRows;
   const stars = [];
 
   for (let starIndex = 0; starIndex < starCount; starIndex += 1) {
@@ -167,11 +176,9 @@ function renderMovingStars(weeks, left, top, cell, gap) {
       const pulseLit = (positionIndex * segmentSeconds + fadeInSeconds) / duration;
       const pulseHold = (positionIndex * segmentSeconds + fadeInSeconds + holdSeconds) / duration;
       const pulseEnd = ((positionIndex + 1) * segmentSeconds) / duration;
-      const cellIndex = Math.floor(randomUnit((starIndex + 1) * 1009 + (positionIndex + 1) * 9176) * totalCells);
-      const weekIndex = cellIndex % weeks.length;
-      const weekday = Math.floor(cellIndex / weeks.length) % 7;
-      const x = left + weekIndex * (cell + gap);
-      const y = top + weekday * (cell + gap);
+      const cellIndex = Math.floor(randomUnit((starIndex + 1) * 1009 + (positionIndex + 1) * 9176) * totalInnerCells);
+      const weekIndex = 1 + (cellIndex % innerColumns);
+      const weekday = 1 + (Math.floor(cellIndex / innerColumns) % innerRows);
       const peakOpacity = (0.76 + randomUnit((starIndex + 1) * 353 + (positionIndex + 1) * 1471) * 0.2).toFixed(2);
       const keyTimes = [];
       const opacityValues = [];
@@ -197,11 +204,16 @@ function renderMovingStars(weeks, left, top, cell, gap) {
         fillValues.push(palette.starMid);
       }
 
-      stars.push(`
+      starCells.forEach(([columnOffset, rowOffset]) => {
+        const x = left + (weekIndex + columnOffset) * (cell + gap);
+        const y = top + (weekday + rowOffset) * (cell + gap);
+
+        stars.push(`
       <rect x="${x}" y="${y}" width="${cell}" height="${cell}" rx="2" fill="${palette.starMid}" opacity="0" pointer-events="none">
         <animate attributeName="fill" values="${fillValues.join(";")}" keyTimes="${keyTimes.join(";")}" dur="${duration}s" begin="${begin}s" repeatCount="indefinite" calcMode="discrete" />
         <animate attributeName="opacity" values="${opacityValues.join(";")}" keyTimes="${keyTimes.join(";")}" dur="${duration}s" begin="${begin}s" repeatCount="indefinite" calcMode="linear" />
       </rect>`);
+      });
     }
   }
 
