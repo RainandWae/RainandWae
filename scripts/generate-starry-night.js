@@ -11,10 +11,10 @@ const palette = {
   grid: "#23283a",
   levels: {
     NONE: "#161b2d",
-    FIRST_QUARTILE: "#9bdcff",
-    SECOND_QUARTILE: "#4aa7ff",
-    THIRD_QUARTILE: "#1767c2",
-    FOURTH_QUARTILE: "#073b8e",
+    FIRST_QUARTILE: "#073b8e",
+    SECOND_QUARTILE: "#1767c2",
+    THIRD_QUARTILE: "#4aa7ff",
+    FOURTH_QUARTILE: "#9bdcff",
   },
   starMid: "#c99a35",
   glow: "#fff4b8",
@@ -22,8 +22,6 @@ const palette = {
   muted: "#b7a777",
   legendText: "#9aa6b2",
 };
-
-const twinkleDensity = 0.04;
 
 const query = `
   query($login: String!) {
@@ -123,23 +121,6 @@ function randomUnit(seed) {
   return value - Math.floor(value);
 }
 
-function starDelay(weekIndex, weekday) {
-  return (randomUnit((weekIndex + 1) * 97 + (weekday + 1) * 193) * 36).toFixed(2);
-}
-
-function starDuration(weekIndex, weekday) {
-  const speed = randomUnit((weekIndex + 1) * 389 + (weekday + 1) * 571);
-  return (2.8 + speed * speed * 16).toFixed(2);
-}
-
-function starLitOpacity(weekIndex, weekday) {
-  return (0.86 + randomUnit((weekIndex + 1) * 811 + (weekday + 1) * 997) * 0.14).toFixed(2);
-}
-
-function shouldTwinkle(weekIndex, weekday) {
-  return randomUnit((weekIndex + 1) * 1543 + (weekday + 1) * 2203) < twinkleDensity;
-}
-
 function renderMonthLabels(weeks, left, top, cell, gap) {
   const monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
   const labels = [];
@@ -167,6 +148,57 @@ function renderWeekdayLabels(left, top, cell, gap) {
   ].join("\n    ");
 }
 
+function renderMovingStars(weeks, left, top, cell, gap) {
+  const starCount = 8;
+  const positionsPerStar = 18;
+  const totalCells = weeks.length * 7;
+  const stars = [];
+
+  for (let starIndex = 0; starIndex < starCount; starIndex += 1) {
+    const keyTimes = [];
+    const xValues = [];
+    const yValues = [];
+    const opacityValues = [];
+    const fillValues = [];
+
+    for (let positionIndex = 0; positionIndex < positionsPerStar; positionIndex += 1) {
+      const segmentStart = positionIndex / positionsPerStar;
+      const segmentPeak = segmentStart + 0.32 / positionsPerStar;
+      const segmentEnd = segmentStart + 0.68 / positionsPerStar;
+      const cellIndex = Math.floor(randomUnit((starIndex + 1) * 1009 + (positionIndex + 1) * 9176) * totalCells);
+      const weekIndex = cellIndex % weeks.length;
+      const weekday = Math.floor(cellIndex / weeks.length) % 7;
+      const x = left + weekIndex * (cell + gap);
+      const y = top + weekday * (cell + gap);
+
+      keyTimes.push(segmentStart.toFixed(4), segmentPeak.toFixed(4), segmentEnd.toFixed(4));
+      xValues.push(x, x, x);
+      yValues.push(y, y, y);
+      opacityValues.push("0", (0.82 + randomUnit((starIndex + 1) * 353 + (positionIndex + 1) * 1471) * 0.18).toFixed(2), "0");
+      fillValues.push(palette.starMid, palette.glow, palette.starMid);
+    }
+
+    keyTimes.push("1");
+    xValues.push(xValues[0]);
+    yValues.push(yValues[0]);
+    opacityValues.push("0");
+    fillValues.push(palette.starMid);
+
+    const duration = (28 + randomUnit((starIndex + 1) * 313) * 70).toFixed(2);
+    const begin = (-1 * randomUnit((starIndex + 1) * 557) * Number(duration)).toFixed(2);
+
+    stars.push(`
+      <rect width="${cell}" height="${cell}" rx="2" fill="${palette.starMid}" opacity="0" pointer-events="none">
+        <animate attributeName="x" values="${xValues.join(";")}" keyTimes="${keyTimes.join(";")}" dur="${duration}s" begin="${begin}s" repeatCount="indefinite" calcMode="discrete" />
+        <animate attributeName="y" values="${yValues.join(";")}" keyTimes="${keyTimes.join(";")}" dur="${duration}s" begin="${begin}s" repeatCount="indefinite" calcMode="discrete" />
+        <animate attributeName="fill" values="${fillValues.join(";")}" keyTimes="${keyTimes.join(";")}" dur="${duration}s" begin="${begin}s" repeatCount="indefinite" calcMode="linear" />
+        <animate attributeName="opacity" values="${opacityValues.join(";")}" keyTimes="${keyTimes.join(";")}" dur="${duration}s" begin="${begin}s" repeatCount="indefinite" calcMode="linear" />
+      </rect>`);
+  }
+
+  return stars.join("\n");
+}
+
 function renderSvg(calendar) {
   const cell = 11;
   const gap = 4;
@@ -177,6 +209,7 @@ function renderSvg(calendar) {
   const height = 190;
   const monthLabels = renderMonthLabels(weeks, left, top, cell, gap);
   const weekdayLabels = renderWeekdayLabels(left, top, cell, gap);
+  const movingStars = renderMovingStars(weeks, left, top, cell, gap);
 
   const stars = [];
   weeks.forEach((week, weekIndex) => {
@@ -184,23 +217,13 @@ function renderSvg(calendar) {
       const x = left + weekIndex * (cell + gap);
       const y = top + day.weekday * (cell + gap);
       const levelColor = palette.levels[day.contributionLevel] || palette.levels.NONE;
-      const twinkles = shouldTwinkle(weekIndex, day.weekday);
-      const delay = twinkles ? starDelay(weekIndex, day.weekday) : null;
-      const duration = twinkles ? starDuration(weekIndex, day.weekday) : null;
-      const litOpacity = twinkles ? starLitOpacity(weekIndex, day.weekday) : null;
       const title = `${day.date}: ${day.contributionCount} contribution${day.contributionCount === 1 ? "" : "s"}`;
       const baseOpacity = day.contributionLevel === "NONE" ? ".42" : ".78";
-      const animation = twinkles
-        ? `
-            <animate attributeName="fill" values="${levelColor};${palette.glow};${palette.starMid};${levelColor}" begin="${delay}s" dur="${duration}s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-            <animate attributeName="opacity" values="${baseOpacity};${litOpacity};.72;${baseOpacity}" begin="${delay}s" dur="${duration}s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />`
-        : "";
 
       stars.push(`
         <g>
           <title>${escapeXml(title)}</title>
-          <rect x="${x}" y="${y}" width="${cell}" height="${cell}" rx="2" fill="${levelColor}" opacity="${baseOpacity}" stroke="${palette.grid}" stroke-width="1">${animation}
-          </rect>
+          <rect x="${x}" y="${y}" width="${cell}" height="${cell}" rx="2" fill="${levelColor}" opacity="${baseOpacity}" stroke="${palette.grid}" stroke-width="1" />
         </g>`);
     });
   });
@@ -218,6 +241,9 @@ function renderSvg(calendar) {
   </g>
   <g shape-rendering="geometricPrecision">
     ${stars.join("\n")}
+  </g>
+  <g shape-rendering="geometricPrecision">
+    ${movingStars}
   </g>
   <g transform="translate(${width - 190}, 169)" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="10" fill="${palette.legendText}">
     <text x="0" y="9">Less</text>
