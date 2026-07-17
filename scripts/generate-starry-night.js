@@ -21,6 +21,8 @@ const palette = {
   muted: "#b7a777",
 };
 
+const twinkleDensity = 0.12;
+
 const query = `
   query($login: String!) {
     user(login: $login) {
@@ -120,15 +122,20 @@ function randomUnit(seed) {
 }
 
 function starDelay(weekIndex, weekday) {
-  return (randomUnit((weekIndex + 1) * 97 + (weekday + 1) * 193) * 24).toFixed(2);
+  return (randomUnit((weekIndex + 1) * 97 + (weekday + 1) * 193) * 36).toFixed(2);
 }
 
 function starDuration(weekIndex, weekday) {
-  return (5.5 + randomUnit((weekIndex + 1) * 389 + (weekday + 1) * 571) * 6.5).toFixed(2);
+  const speed = randomUnit((weekIndex + 1) * 389 + (weekday + 1) * 571);
+  return (2.8 + speed * speed * 16).toFixed(2);
 }
 
 function starLitOpacity(weekIndex, weekday) {
   return (0.86 + randomUnit((weekIndex + 1) * 811 + (weekday + 1) * 997) * 0.14).toFixed(2);
+}
+
+function shouldTwinkle(weekIndex, weekday) {
+  return randomUnit((weekIndex + 1) * 1543 + (weekday + 1) * 2203) < twinkleDensity;
 }
 
 function renderSvg(calendar) {
@@ -146,17 +153,21 @@ function renderSvg(calendar) {
       const x = left + weekIndex * (cell + gap);
       const y = top + day.weekday * (cell + gap);
       const levelColor = palette.levels[day.contributionLevel] || palette.levels.NONE;
-      const delay = starDelay(weekIndex, day.weekday);
-      const duration = starDuration(weekIndex, day.weekday);
-      const litOpacity = starLitOpacity(weekIndex, day.weekday);
+      const twinkles = shouldTwinkle(weekIndex, day.weekday);
+      const delay = twinkles ? starDelay(weekIndex, day.weekday) : null;
+      const duration = twinkles ? starDuration(weekIndex, day.weekday) : null;
+      const litOpacity = twinkles ? starLitOpacity(weekIndex, day.weekday) : null;
       const title = `${day.date}: ${day.contributionCount} contribution${day.contributionCount === 1 ? "" : "s"}`;
+      const animation = twinkles
+        ? `
+            <animate attributeName="fill" values="${levelColor};${palette.glow};${levelColor}" begin="${delay}s" dur="${duration}s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1" />
+            <animate attributeName="opacity" values=".56;${litOpacity};.56" begin="${delay}s" dur="${duration}s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1" />`
+        : "";
 
       stars.push(`
         <g>
           <title>${escapeXml(title)}</title>
-          <rect x="${x}" y="${y}" width="${cell}" height="${cell}" rx="2" fill="${levelColor}" stroke="${palette.grid}" stroke-width="1">
-            <animate attributeName="fill" values="${levelColor};${palette.glow};${levelColor}" begin="${delay}s" dur="${duration}s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1" />
-            <animate attributeName="opacity" values=".58;${litOpacity};.58" begin="${delay}s" dur="${duration}s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1" />
+          <rect x="${x}" y="${y}" width="${cell}" height="${cell}" rx="2" fill="${levelColor}" opacity=".56" stroke="${palette.grid}" stroke-width="1">${animation}
           </rect>
         </g>`);
     });
@@ -165,7 +176,7 @@ function renderSvg(calendar) {
   return `<?xml version="1.0" encoding="UTF-8"?>
 <svg width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">${escapeXml(username)} star field contribution graph</title>
-  <desc id="desc">A GitHub contribution graph using warm yellow tones with individual squares that randomly brighten and fade like stars.</desc>
+  <desc id="desc">A GitHub contribution graph using warm yellow tones with sparse individual squares that brighten and fade like stars at varied speeds.</desc>
   <rect width="${width}" height="${height}" rx="8" fill="${palette.empty}" />
   <text x="${left}" y="24" fill="${palette.text}" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15" font-weight="600">RainandWae / star field</text>
   <text x="${width - left}" y="24" text-anchor="end" fill="${palette.muted}" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12">${calendar.totalContributions} contributions</text>
