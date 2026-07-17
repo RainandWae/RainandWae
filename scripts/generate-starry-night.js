@@ -150,7 +150,7 @@ function renderWeekdayLabels(left, top, cell, gap) {
 
 function renderMovingStars(weeks, left, top, cell, gap) {
   const starCount = 6;
-  const positionsPerStar = 72;
+  const positionsPerStar = 18;
   const totalCells = weeks.length * 7;
   const stars = [];
 
@@ -163,19 +163,21 @@ function renderMovingStars(weeks, left, top, cell, gap) {
 
     for (let positionIndex = 0; positionIndex < positionsPerStar; positionIndex += 1) {
       const segmentStart = positionIndex / positionsPerStar;
-      const segmentPeak = segmentStart + 0.16 / positionsPerStar;
-      const segmentEnd = segmentStart + 0.34 / positionsPerStar;
+      const segmentRise = segmentStart + 0.22 / positionsPerStar;
+      const segmentPeak = segmentStart + 0.5 / positionsPerStar;
+      const segmentFall = segmentStart + 0.78 / positionsPerStar;
       const cellIndex = Math.floor(randomUnit((starIndex + 1) * 1009 + (positionIndex + 1) * 9176) * totalCells);
       const weekIndex = cellIndex % weeks.length;
       const weekday = Math.floor(cellIndex / weeks.length) % 7;
       const x = left + weekIndex * (cell + gap);
       const y = top + weekday * (cell + gap);
+      const peakOpacity = (0.76 + randomUnit((starIndex + 1) * 353 + (positionIndex + 1) * 1471) * 0.2).toFixed(2);
 
-      keyTimes.push(segmentStart.toFixed(4), segmentPeak.toFixed(4), segmentEnd.toFixed(4));
-      xValues.push(x, x, x);
-      yValues.push(y, y, y);
-      opacityValues.push("0", (0.82 + randomUnit((starIndex + 1) * 353 + (positionIndex + 1) * 1471) * 0.18).toFixed(2), "0");
-      fillValues.push(palette.starMid, palette.glow, palette.starMid);
+      keyTimes.push(segmentStart.toFixed(4), segmentRise.toFixed(4), segmentPeak.toFixed(4), segmentFall.toFixed(4));
+      xValues.push(x, x, x, x);
+      yValues.push(y, y, y, y);
+      opacityValues.push("0", "0.32", peakOpacity, "0");
+      fillValues.push(palette.starMid, palette.starMid, palette.glow, palette.starMid);
     }
 
     keyTimes.push("1");
@@ -184,7 +186,7 @@ function renderMovingStars(weeks, left, top, cell, gap) {
     opacityValues.push("0");
     fillValues.push(palette.starMid);
 
-    const duration = (18 + randomUnit((starIndex + 1) * 313) * 24).toFixed(2);
+    const duration = (72 + randomUnit((starIndex + 1) * 313) * 72).toFixed(2);
     const begin = (-1 * randomUnit((starIndex + 1) * 557) * Number(duration)).toFixed(2);
 
     stars.push(`
