@@ -1,4 +1,4 @@
-# RainandWae
+# Radium
 
 <p align="center">
   <picture>
