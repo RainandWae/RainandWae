@@ -11,17 +11,19 @@ const palette = {
   grid: "#23283a",
   levels: {
     NONE: "#161b2d",
-    FIRST_QUARTILE: "#4a4028",
-    SECOND_QUARTILE: "#80672d",
-    THIRD_QUARTILE: "#c4932f",
-    FOURTH_QUARTILE: "#f6c95a",
+    FIRST_QUARTILE: "#20283a",
+    SECOND_QUARTILE: "#293247",
+    THIRD_QUARTILE: "#343d54",
+    FOURTH_QUARTILE: "#424b62",
   },
+  starDim: "#6b5a2b",
+  starMid: "#c99a35",
   glow: "#fff4b8",
   text: "#fff0b3",
   muted: "#b7a777",
 };
 
-const twinkleDensity = 0.12;
+const twinkleDensity = 0.04;
 
 const query = `
   query($login: String!) {
@@ -160,14 +162,16 @@ function renderSvg(calendar) {
       const title = `${day.date}: ${day.contributionCount} contribution${day.contributionCount === 1 ? "" : "s"}`;
       const animation = twinkles
         ? `
-            <animate attributeName="fill" values="${levelColor};${palette.glow};${levelColor}" begin="${delay}s" dur="${duration}s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1" />
-            <animate attributeName="opacity" values=".56;${litOpacity};.56" begin="${delay}s" dur="${duration}s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1" />`
+            <animate attributeName="fill" values="${palette.starDim};${palette.glow};${palette.starMid};${palette.starDim}" begin="${delay}s" dur="${duration}s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
+            <animate attributeName="opacity" values=".28;${litOpacity};.48;.28" begin="${delay}s" dur="${duration}s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />`
         : "";
+      const fill = twinkles ? palette.starDim : levelColor;
+      const opacity = twinkles ? ".28" : ".42";
 
       stars.push(`
         <g>
           <title>${escapeXml(title)}</title>
-          <rect x="${x}" y="${y}" width="${cell}" height="${cell}" rx="2" fill="${levelColor}" opacity=".56" stroke="${palette.grid}" stroke-width="1">${animation}
+          <rect x="${x}" y="${y}" width="${cell}" height="${cell}" rx="2" fill="${fill}" opacity="${opacity}" stroke="${palette.grid}" stroke-width="1">${animation}
           </rect>
         </g>`);
     });
@@ -176,7 +180,7 @@ function renderSvg(calendar) {
   return `<?xml version="1.0" encoding="UTF-8"?>
 <svg width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">${escapeXml(username)} star field contribution graph</title>
-  <desc id="desc">A GitHub contribution graph using warm yellow tones with sparse individual squares that brighten and fade like stars at varied speeds.</desc>
+  <desc id="desc">A muted GitHub contribution graph with a small number of individual yellow squares that brighten and fade like stars at varied speeds.</desc>
   <rect width="${width}" height="${height}" rx="8" fill="${palette.empty}" />
   <text x="${left}" y="24" fill="${palette.text}" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15" font-weight="600">RainandWae / star field</text>
   <text x="${width - left}" y="24" text-anchor="end" fill="${palette.muted}" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12">${calendar.totalContributions} contributions</text>
@@ -185,10 +189,9 @@ function renderSvg(calendar) {
   </g>
   <g transform="translate(${left}, 154)" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="10" fill="${palette.muted}">
     <text x="0" y="0">dim</text>
-    <rect x="76" y="-9" width="10" height="10" rx="2" fill="${palette.levels.FIRST_QUARTILE}" />
-    <rect x="92" y="-9" width="10" height="10" rx="2" fill="${palette.levels.SECOND_QUARTILE}" />
-    <rect x="108" y="-9" width="10" height="10" rx="2" fill="${palette.levels.THIRD_QUARTILE}" />
-    <rect x="124" y="-9" width="10" height="10" rx="2" fill="${palette.levels.FOURTH_QUARTILE}" />
+    <rect x="76" y="-9" width="10" height="10" rx="2" fill="${palette.starDim}" />
+    <rect x="92" y="-9" width="10" height="10" rx="2" fill="${palette.starMid}" />
+    <rect x="108" y="-9" width="10" height="10" rx="2" fill="${palette.glow}" />
     <text x="142" y="0">bright</text>
   </g>
 </svg>
