@@ -140,14 +140,43 @@ function shouldTwinkle(weekIndex, weekday) {
   return randomUnit((weekIndex + 1) * 1543 + (weekday + 1) * 2203) < twinkleDensity;
 }
 
+function renderMonthLabels(weeks, left, top, cell, gap) {
+  const monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+  const labels = [];
+  let previousMonth = null;
+
+  weeks.forEach((week, weekIndex) => {
+    const firstDay = week.contributionDays[0];
+    if (!firstDay) return;
+
+    const month = new Date(`${firstDay.date}T00:00:00Z`).getUTCMonth();
+    if (month !== previousMonth) {
+      labels.push(`<text x="${left + weekIndex * (cell + gap)}" y="${top - 9}">${monthNames[month]}</text>`);
+      previousMonth = month;
+    }
+  });
+
+  return labels.join("\n    ");
+}
+
+function renderWeekdayLabels(left, top, cell, gap) {
+  return [
+    `<text x="${left - 24}" y="${top + 1 * (cell + gap) + 9}">Mon</text>`,
+    `<text x="${left - 24}" y="${top + 3 * (cell + gap) + 9}">Wed</text>`,
+    `<text x="${left - 24}" y="${top + 5 * (cell + gap) + 9}">Fri</text>`,
+  ].join("\n    ");
+}
+
 function renderSvg(calendar) {
   const cell = 11;
   const gap = 4;
-  const left = 28;
-  const top = 44;
+  const left = 46;
+  const top = 56;
   const weeks = calendar.weeks;
-  const width = left * 2 + weeks.length * (cell + gap) - gap;
+  const width = left + 28 + weeks.length * (cell + gap) - gap;
   const height = 174;
+  const monthLabels = renderMonthLabels(weeks, left, top, cell, gap);
+  const weekdayLabels = renderWeekdayLabels(left, top, cell, gap);
 
   const stars = [];
   weeks.forEach((week, weekIndex) => {
@@ -183,16 +212,13 @@ function renderSvg(calendar) {
   <desc id="desc">A muted GitHub contribution graph with a small number of individual yellow squares that brighten and fade like stars at varied speeds.</desc>
   <rect width="${width}" height="${height}" rx="8" fill="${palette.empty}" />
   <text x="${left}" y="24" fill="${palette.text}" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15" font-weight="600">RainandWae / star field</text>
-  <text x="${width - left}" y="24" text-anchor="end" fill="${palette.muted}" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12">${calendar.totalContributions} contributions</text>
+  <text x="${width - 28}" y="24" text-anchor="end" fill="${palette.muted}" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12">${calendar.totalContributions} contributions</text>
+  <g font-family="Segoe UI, Inter, Arial, sans-serif" font-size="10" fill="${palette.muted}">
+    ${monthLabels}
+    ${weekdayLabels}
+  </g>
   <g shape-rendering="geometricPrecision">
     ${stars.join("\n")}
-  </g>
-  <g transform="translate(${left}, 154)" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="10" fill="${palette.muted}">
-    <text x="0" y="0">dim</text>
-    <rect x="76" y="-9" width="10" height="10" rx="2" fill="${palette.starDim}" />
-    <rect x="92" y="-9" width="10" height="10" rx="2" fill="${palette.starMid}" />
-    <rect x="108" y="-9" width="10" height="10" rx="2" fill="${palette.glow}" />
-    <text x="142" y="0">bright</text>
   </g>
 </svg>
 `;
