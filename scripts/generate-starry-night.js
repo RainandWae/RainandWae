@@ -11,10 +11,10 @@ const palette = {
   grid: "#23283a",
   levels: {
     NONE: "#161b2d",
-    FIRST_QUARTILE: "#073b8e",
-    SECOND_QUARTILE: "#1767c2",
-    THIRD_QUARTILE: "#4aa7ff",
-    FOURTH_QUARTILE: "#9bdcff",
+    FIRST_QUARTILE: "#9bdcff",
+    SECOND_QUARTILE: "#4aa7ff",
+    THIRD_QUARTILE: "#1767c2",
+    FOURTH_QUARTILE: "#073b8e",
   },
   starMid: "#c99a35",
   glow: "#fff4b8",
@@ -149,8 +149,8 @@ function renderWeekdayLabels(left, top, cell, gap) {
 }
 
 function renderMovingStars(weeks, left, top, cell, gap) {
-  const starCount = 8;
-  const positionsPerStar = 18;
+  const starCount = 6;
+  const positionsPerStar = 72;
   const totalCells = weeks.length * 7;
   const stars = [];
 
@@ -163,8 +163,8 @@ function renderMovingStars(weeks, left, top, cell, gap) {
 
     for (let positionIndex = 0; positionIndex < positionsPerStar; positionIndex += 1) {
       const segmentStart = positionIndex / positionsPerStar;
-      const segmentPeak = segmentStart + 0.32 / positionsPerStar;
-      const segmentEnd = segmentStart + 0.68 / positionsPerStar;
+      const segmentPeak = segmentStart + 0.16 / positionsPerStar;
+      const segmentEnd = segmentStart + 0.34 / positionsPerStar;
       const cellIndex = Math.floor(randomUnit((starIndex + 1) * 1009 + (positionIndex + 1) * 9176) * totalCells);
       const weekIndex = cellIndex % weeks.length;
       const weekday = Math.floor(cellIndex / weeks.length) % 7;
@@ -184,7 +184,7 @@ function renderMovingStars(weeks, left, top, cell, gap) {
     opacityValues.push("0");
     fillValues.push(palette.starMid);
 
-    const duration = (28 + randomUnit((starIndex + 1) * 313) * 70).toFixed(2);
+    const duration = (18 + randomUnit((starIndex + 1) * 313) * 24).toFixed(2);
     const begin = (-1 * randomUnit((starIndex + 1) * 557) * Number(duration)).toFixed(2);
 
     stars.push(`
