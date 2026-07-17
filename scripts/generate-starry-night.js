@@ -11,16 +11,16 @@ const palette = {
   grid: "#23283a",
   levels: {
     NONE: "#161b2d",
-    FIRST_QUARTILE: "#20283a",
-    SECOND_QUARTILE: "#293247",
-    THIRD_QUARTILE: "#343d54",
-    FOURTH_QUARTILE: "#424b62",
+    FIRST_QUARTILE: "#9bdcff",
+    SECOND_QUARTILE: "#4aa7ff",
+    THIRD_QUARTILE: "#1767c2",
+    FOURTH_QUARTILE: "#073b8e",
   },
-  starDim: "#6b5a2b",
   starMid: "#c99a35",
   glow: "#fff4b8",
   text: "#fff0b3",
   muted: "#b7a777",
+  legendText: "#9aa6b2",
 };
 
 const twinkleDensity = 0.04;
@@ -174,7 +174,7 @@ function renderSvg(calendar) {
   const top = 56;
   const weeks = calendar.weeks;
   const width = left + 28 + weeks.length * (cell + gap) - gap;
-  const height = 174;
+  const height = 190;
   const monthLabels = renderMonthLabels(weeks, left, top, cell, gap);
   const weekdayLabels = renderWeekdayLabels(left, top, cell, gap);
 
@@ -189,18 +189,17 @@ function renderSvg(calendar) {
       const duration = twinkles ? starDuration(weekIndex, day.weekday) : null;
       const litOpacity = twinkles ? starLitOpacity(weekIndex, day.weekday) : null;
       const title = `${day.date}: ${day.contributionCount} contribution${day.contributionCount === 1 ? "" : "s"}`;
+      const baseOpacity = day.contributionLevel === "NONE" ? ".42" : ".78";
       const animation = twinkles
         ? `
-            <animate attributeName="fill" values="${palette.starDim};${palette.glow};${palette.starMid};${palette.starDim}" begin="${delay}s" dur="${duration}s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-            <animate attributeName="opacity" values=".28;${litOpacity};.48;.28" begin="${delay}s" dur="${duration}s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />`
+            <animate attributeName="fill" values="${levelColor};${palette.glow};${palette.starMid};${levelColor}" begin="${delay}s" dur="${duration}s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
+            <animate attributeName="opacity" values="${baseOpacity};${litOpacity};.72;${baseOpacity}" begin="${delay}s" dur="${duration}s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />`
         : "";
-      const fill = twinkles ? palette.starDim : levelColor;
-      const opacity = twinkles ? ".28" : ".42";
 
       stars.push(`
         <g>
           <title>${escapeXml(title)}</title>
-          <rect x="${x}" y="${y}" width="${cell}" height="${cell}" rx="2" fill="${fill}" opacity="${opacity}" stroke="${palette.grid}" stroke-width="1">${animation}
+          <rect x="${x}" y="${y}" width="${cell}" height="${cell}" rx="2" fill="${levelColor}" opacity="${baseOpacity}" stroke="${palette.grid}" stroke-width="1">${animation}
           </rect>
         </g>`);
     });
@@ -209,7 +208,7 @@ function renderSvg(calendar) {
   return `<?xml version="1.0" encoding="UTF-8"?>
 <svg width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">${escapeXml(username)} star field contribution graph</title>
-  <desc id="desc">A muted GitHub contribution graph with a small number of individual yellow squares that brighten and fade like stars at varied speeds.</desc>
+  <desc id="desc">A blue GitHub contribution graph with a small number of individual squares that brighten and fade like stars at varied speeds.</desc>
   <rect width="${width}" height="${height}" rx="8" fill="${palette.empty}" />
   <text x="${left}" y="24" fill="${palette.text}" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15" font-weight="600">RainandWae / star field</text>
   <text x="${width - 28}" y="24" text-anchor="end" fill="${palette.muted}" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12">${calendar.totalContributions} contributions</text>
@@ -219,6 +218,15 @@ function renderSvg(calendar) {
   </g>
   <g shape-rendering="geometricPrecision">
     ${stars.join("\n")}
+  </g>
+  <g transform="translate(${width - 190}, 169)" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="10" fill="${palette.legendText}">
+    <text x="0" y="9">Less</text>
+    <rect x="28" y="0" width="10" height="10" rx="2" fill="${palette.levels.NONE}" stroke="${palette.grid}" stroke-width="1" />
+    <rect x="43" y="0" width="10" height="10" rx="2" fill="${palette.levels.FIRST_QUARTILE}" opacity=".78" />
+    <rect x="58" y="0" width="10" height="10" rx="2" fill="${palette.levels.SECOND_QUARTILE}" opacity=".78" />
+    <rect x="73" y="0" width="10" height="10" rx="2" fill="${palette.levels.THIRD_QUARTILE}" opacity=".78" />
+    <rect x="88" y="0" width="10" height="10" rx="2" fill="${palette.levels.FOURTH_QUARTILE}" opacity=".78" />
+    <text x="106" y="9">More</text>
   </g>
 </svg>
 `;
