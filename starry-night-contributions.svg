@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="865" height="174" viewBox="0 0 865 174" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="865" height="190" viewBox="0 0 865 190" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">RainandWae star field contribution graph</title>
-  <desc id="desc">A muted GitHub contribution graph with a small number of individual yellow squares that brighten and fade like stars at varied speeds.</desc>
-  <rect width="865" height="174" rx="8" fill="#0b1020" />
+  <desc id="desc">A blue GitHub contribution graph with a small number of individual squares that brighten and fade like stars at varied speeds.</desc>
+  <rect width="865" height="190" rx="8" fill="#0b1020" />
   <text x="46" y="24" fill="#fff0b3" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15" font-weight="600">RainandWae / star field</text>
-  <text x="837" y="24" text-anchor="end" fill="#b7a777" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12">68 contributions</text>
+  <text x="837" y="24" text-anchor="end" fill="#b7a777" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12">69 contributions</text>
   <g font-family="Segoe UI, Inter, Arial, sans-serif" font-size="10" fill="#b7a777">
     <text x="46" y="47">Jul</text>
     <text x="91" y="47">Aug</text>
@@ -153,9 +153,9 @@
 
         <g>
           <title>2025-08-03: 0 contributions</title>
-          <rect x="91" y="56" width="11" height="11" rx="2" fill="#6b5a2b" opacity=".28" stroke="#23283a" stroke-width="1">
-            <animate attributeName="fill" values="#6b5a2b;#fff4b8;#c99a35;#6b5a2b" begin="12.86s" dur="4.51s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-            <animate attributeName="opacity" values=".28;0.93;.48;.28" begin="12.86s" dur="4.51s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
+          <rect x="91" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
+            <animate attributeName="fill" values="#161b2d;#fff4b8;#c99a35;#161b2d" begin="12.86s" dur="4.51s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
+            <animate attributeName="opacity" values=".42;0.93;.72;.42" begin="12.86s" dur="4.51s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
           </rect>
         </g>
 
@@ -179,9 +179,9 @@
 
         <g>
           <title>2025-08-07: 0 contributions</title>
-          <rect x="91" y="116" width="11" height="11" rx="2" fill="#6b5a2b" opacity=".28" stroke="#23283a" stroke-width="1">
-            <animate attributeName="fill" values="#6b5a2b;#fff4b8;#c99a35;#6b5a2b" begin="19.82s" dur="13.19s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-            <animate attributeName="opacity" values=".28;0.94;.48;.28" begin="19.82s" dur="13.19s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
+          <rect x="91" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
+            <animate attributeName="fill" values="#161b2d;#fff4b8;#c99a35;#161b2d" begin="19.82s" dur="13.19s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
+            <animate attributeName="opacity" values=".42;0.94;.72;.42" begin="19.82s" dur="13.19s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
           </rect>
         </g>
 
@@ -283,9 +283,9 @@
 
         <g>
           <title>2025-08-24: 0 contributions</title>
-          <rect x="136" y="56" width="11" height="11" rx="2" fill="#6b5a2b" opacity=".28" stroke="#23283a" stroke-width="1">
-            <animate attributeName="fill" values="#6b5a2b;#fff4b8;#c99a35;#6b5a2b" begin="26.00s" dur="10.95s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-            <animate attributeName="opacity" values=".28;0.87;.48;.28" begin="26.00s" dur="10.95s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
+          <rect x="136" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
+            <animate attributeName="fill" values="#161b2d;#fff4b8;#c99a35;#161b2d" begin="26.00s" dur="10.95s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
+            <animate attributeName="opacity" values=".42;0.87;.72;.42" begin="26.00s" dur="10.95s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
           </rect>
         </g>
 
@@ -411,9 +411,9 @@
 
         <g>
           <title>2025-09-14: 0 contributions</title>
-          <rect x="181" y="56" width="11" height="11" rx="2" fill="#6b5a2b" opacity=".28" stroke="#23283a" stroke-width="1">
-            <animate attributeName="fill" values="#6b5a2b;#fff4b8;#c99a35;#6b5a2b" begin="15.38s" dur="3.47s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-            <animate attributeName="opacity" values=".28;0.89;.48;.28" begin="15.38s" dur="3.47s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
+          <rect x="181" y="56" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
+            <animate attributeName="fill" values="#161b2d;#fff4b8;#c99a35;#161b2d" begin="15.38s" dur="3.47s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
+            <animate attributeName="opacity" values=".42;0.89;.72;.42" begin="15.38s" dur="3.47s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
           </rect>
         </g>
 
@@ -431,9 +431,9 @@
 
         <g>
           <title>2025-09-17: 0 contributions</title>
-          <rect x="181" y="101" width="11" height="11" rx="2" fill="#6b5a2b" opacity=".28" stroke="#23283a" stroke-width="1">
-            <animate attributeName="fill" values="#6b5a2b;#fff4b8;#c99a35;#6b5a2b" begin="32.81s" dur="3.55s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-            <animate attributeName="opacity" values=".28;0.93;.48;.28" begin="32.81s" dur="3.55s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
+          <rect x="181" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
+            <animate attributeName="fill" values="#161b2d;#fff4b8;#c99a35;#161b2d" begin="32.81s" dur="3.55s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
+            <animate attributeName="opacity" values=".42;0.93;.72;.42" begin="32.81s" dur="3.55s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
           </rect>
         </g>
 
@@ -607,9 +607,9 @@
 
         <g>
           <title>2025-10-16: 0 contributions</title>
-          <rect x="241" y="116" width="11" height="11" rx="2" fill="#6b5a2b" opacity=".28" stroke="#23283a" stroke-width="1">
-            <animate attributeName="fill" values="#6b5a2b;#fff4b8;#c99a35;#6b5a2b" begin="0.84s" dur="9.82s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-            <animate attributeName="opacity" values=".28;0.88;.48;.28" begin="0.84s" dur="9.82s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
+          <rect x="241" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
+            <animate attributeName="fill" values="#161b2d;#fff4b8;#c99a35;#161b2d" begin="0.84s" dur="9.82s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
+            <animate attributeName="opacity" values=".42;0.88;.72;.42" begin="0.84s" dur="9.82s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
           </rect>
         </g>
 
@@ -819,17 +819,17 @@
 
         <g>
           <title>2025-11-20: 0 contributions</title>
-          <rect x="316" y="116" width="11" height="11" rx="2" fill="#6b5a2b" opacity=".28" stroke="#23283a" stroke-width="1">
-            <animate attributeName="fill" values="#6b5a2b;#fff4b8;#c99a35;#6b5a2b" begin="5.86s" dur="14.18s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-            <animate attributeName="opacity" values=".28;0.91;.48;.28" begin="5.86s" dur="14.18s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
+          <rect x="316" y="116" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
+            <animate attributeName="fill" values="#161b2d;#fff4b8;#c99a35;#161b2d" begin="5.86s" dur="14.18s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
+            <animate attributeName="opacity" values=".42;0.91;.72;.42" begin="5.86s" dur="14.18s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
           </rect>
         </g>
 
         <g>
           <title>2025-11-21: 0 contributions</title>
-          <rect x="316" y="131" width="11" height="11" rx="2" fill="#6b5a2b" opacity=".28" stroke="#23283a" stroke-width="1">
-            <animate attributeName="fill" values="#6b5a2b;#fff4b8;#c99a35;#6b5a2b" begin="25.87s" dur="3.31s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-            <animate attributeName="opacity" values=".28;0.93;.48;.28" begin="25.87s" dur="3.31s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
+          <rect x="316" y="131" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
+            <animate attributeName="fill" values="#161b2d;#fff4b8;#c99a35;#161b2d" begin="25.87s" dur="3.31s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
+            <animate attributeName="opacity" values=".42;0.93;.72;.42" begin="25.87s" dur="3.31s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
           </rect>
         </g>
 
@@ -961,9 +961,9 @@
 
         <g>
           <title>2025-12-13: 0 contributions</title>
-          <rect x="361" y="146" width="11" height="11" rx="2" fill="#6b5a2b" opacity=".28" stroke="#23283a" stroke-width="1">
-            <animate attributeName="fill" values="#6b5a2b;#fff4b8;#c99a35;#6b5a2b" begin="26.51s" dur="5.67s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-            <animate attributeName="opacity" values=".28;0.94;.48;.28" begin="26.51s" dur="5.67s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
+          <rect x="361" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
+            <animate attributeName="fill" values="#161b2d;#fff4b8;#c99a35;#161b2d" begin="26.51s" dur="5.67s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
+            <animate attributeName="opacity" values=".42;0.94;.72;.42" begin="26.51s" dur="5.67s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
           </rect>
         </g>
 
@@ -1407,9 +1407,9 @@
 
         <g>
           <title>2026-02-25: 0 contributions</title>
-          <rect x="526" y="101" width="11" height="11" rx="2" fill="#6b5a2b" opacity=".28" stroke="#23283a" stroke-width="1">
-            <animate attributeName="fill" values="#6b5a2b;#fff4b8;#c99a35;#6b5a2b" begin="32.63s" dur="16.42s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-            <animate attributeName="opacity" values=".28;0.99;.48;.28" begin="32.63s" dur="16.42s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
+          <rect x="526" y="101" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
+            <animate attributeName="fill" values="#161b2d;#fff4b8;#c99a35;#161b2d" begin="32.63s" dur="16.42s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
+            <animate attributeName="opacity" values=".42;0.99;.72;.42" begin="32.63s" dur="16.42s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
           </rect>
         </g>
 
@@ -1529,9 +1529,9 @@
 
         <g>
           <title>2026-03-17: 0 contributions</title>
-          <rect x="571" y="86" width="11" height="11" rx="2" fill="#6b5a2b" opacity=".28" stroke="#23283a" stroke-width="1">
-            <animate attributeName="fill" values="#6b5a2b;#fff4b8;#c99a35;#6b5a2b" begin="23.10s" dur="14.72s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-            <animate attributeName="opacity" values=".28;0.88;.48;.28" begin="23.10s" dur="14.72s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
+          <rect x="571" y="86" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
+            <animate attributeName="fill" values="#161b2d;#fff4b8;#c99a35;#161b2d" begin="23.10s" dur="14.72s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
+            <animate attributeName="opacity" values=".42;0.88;.72;.42" begin="23.10s" dur="14.72s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
           </rect>
         </g>
 
@@ -1819,9 +1819,9 @@
 
         <g>
           <title>2026-05-04: 0 contributions</title>
-          <rect x="676" y="71" width="11" height="11" rx="2" fill="#6b5a2b" opacity=".28" stroke="#23283a" stroke-width="1">
-            <animate attributeName="fill" values="#6b5a2b;#fff4b8;#c99a35;#6b5a2b" begin="28.45s" dur="2.95s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-            <animate attributeName="opacity" values=".28;0.96;.48;.28" begin="28.45s" dur="2.95s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
+          <rect x="676" y="71" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
+            <animate attributeName="fill" values="#161b2d;#fff4b8;#c99a35;#161b2d" begin="28.45s" dur="2.95s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
+            <animate attributeName="opacity" values=".42;0.96;.72;.42" begin="28.45s" dur="2.95s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
           </rect>
         </g>
 
@@ -1893,9 +1893,9 @@
 
         <g>
           <title>2026-05-16: 0 contributions</title>
-          <rect x="691" y="146" width="11" height="11" rx="2" fill="#6b5a2b" opacity=".28" stroke="#23283a" stroke-width="1">
-            <animate attributeName="fill" values="#6b5a2b;#fff4b8;#c99a35;#6b5a2b" begin="1.74s" dur="2.94s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-            <animate attributeName="opacity" values=".28;0.89;.48;.28" begin="1.74s" dur="2.94s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
+          <rect x="691" y="146" width="11" height="11" rx="2" fill="#161b2d" opacity=".42" stroke="#23283a" stroke-width="1">
+            <animate attributeName="fill" values="#161b2d;#fff4b8;#c99a35;#161b2d" begin="1.74s" dur="2.94s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
+            <animate attributeName="opacity" values=".42;0.89;.72;.42" begin="1.74s" dur="2.94s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
           </rect>
         </g>
 
@@ -2243,34 +2243,43 @@
 
         <g>
           <title>2026-07-13: 10 contributions</title>
-          <rect x="826" y="71" width="11" height="11" rx="2" fill="#293247" opacity=".42" stroke="#23283a" stroke-width="1">
+          <rect x="826" y="71" width="11" height="11" rx="2" fill="#4aa7ff" opacity=".78" stroke="#23283a" stroke-width="1">
           </rect>
         </g>
 
         <g>
           <title>2026-07-14: 7 contributions</title>
-          <rect x="826" y="86" width="11" height="11" rx="2" fill="#293247" opacity=".42" stroke="#23283a" stroke-width="1">
+          <rect x="826" y="86" width="11" height="11" rx="2" fill="#4aa7ff" opacity=".78" stroke="#23283a" stroke-width="1">
           </rect>
         </g>
 
         <g>
           <title>2026-07-15: 12 contributions</title>
-          <rect x="826" y="101" width="11" height="11" rx="2" fill="#343d54" opacity=".42" stroke="#23283a" stroke-width="1">
+          <rect x="826" y="101" width="11" height="11" rx="2" fill="#4aa7ff" opacity=".78" stroke="#23283a" stroke-width="1">
           </rect>
         </g>
 
         <g>
           <title>2026-07-16: 16 contributions</title>
-          <rect x="826" y="116" width="11" height="11" rx="2" fill="#343d54" opacity=".42" stroke="#23283a" stroke-width="1">
+          <rect x="826" y="116" width="11" height="11" rx="2" fill="#1767c2" opacity=".78" stroke="#23283a" stroke-width="1">
           </rect>
         </g>
 
         <g>
-          <title>2026-07-17: 23 contributions</title>
-          <rect x="826" y="131" width="11" height="11" rx="2" fill="#6b5a2b" opacity=".28" stroke="#23283a" stroke-width="1">
-            <animate attributeName="fill" values="#6b5a2b;#fff4b8;#c99a35;#6b5a2b" begin="28.77s" dur="18.51s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
-            <animate attributeName="opacity" values=".28;0.91;.48;.28" begin="28.77s" dur="18.51s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
+          <title>2026-07-17: 24 contributions</title>
+          <rect x="826" y="131" width="11" height="11" rx="2" fill="#073b8e" opacity=".78" stroke="#23283a" stroke-width="1">
+            <animate attributeName="fill" values="#073b8e;#fff4b8;#c99a35;#073b8e" begin="28.77s" dur="18.51s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
+            <animate attributeName="opacity" values=".78;0.91;.72;.78" begin="28.77s" dur="18.51s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1" />
           </rect>
         </g>
+  </g>
+  <g transform="translate(675, 169)" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="10" fill="#9aa6b2">
+    <text x="0" y="9">Less</text>
+    <rect x="28" y="0" width="10" height="10" rx="2" fill="#161b2d" stroke="#23283a" stroke-width="1" />
+    <rect x="43" y="0" width="10" height="10" rx="2" fill="#9bdcff" opacity=".78" />
+    <rect x="58" y="0" width="10" height="10" rx="2" fill="#4aa7ff" opacity=".78" />
+    <rect x="73" y="0" width="10" height="10" rx="2" fill="#1767c2" opacity=".78" />
+    <rect x="88" y="0" width="10" height="10" rx="2" fill="#073b8e" opacity=".78" />
+    <text x="106" y="9">More</text>
   </g>
 </svg>
