@@ -4,7 +4,7 @@
   <desc id="desc">A blue GitHub contribution graph with a small number of individual squares that brighten and fade like stars at varied speeds.</desc>
   <rect width="865" height="190" rx="8" fill="#0b1020" />
   <text x="46" y="24" fill="#fff0b3" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15" font-weight="600">RainandWae / star field</text>
-  <text x="837" y="24" text-anchor="end" fill="#b7a777" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12">77 contributions</text>
+  <text x="837" y="24" text-anchor="end" fill="#b7a777" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12">78 contributions</text>
   <g font-family="Segoe UI, Inter, Arial, sans-serif" font-size="10" fill="#b7a777">
     <text x="46" y="47">Jul</text>
     <text x="91" y="47">Aug</text>
@@ -1871,1511 +1871,551 @@
         </g>
 
         <g>
-          <title>2026-07-17: 32 contributions</title>
+          <title>2026-07-17: 33 contributions</title>
           <rect x="826" y="131" width="11" height="11" rx="2" fill="#9bdcff" opacity=".78" stroke="#23283a" stroke-width="1" />
         </g>
   </g>
   <g shape-rendering="geometricPrecision">
     
-      <rect x="496" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="496" y="86" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="481" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="511" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="496" y="71" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="496" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0.96;0.96;0;0" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="481" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0.96;0.96;0;0" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="511" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0.96;0.96;0;0" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="496" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0.96;0.96;0;0" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="496" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0.96;0.96;0;0" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="616" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="616" y="101" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="601" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="631" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="616" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="616" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.93;0.93;0;0" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="601" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.93;0.93;0;0" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="631" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.93;0.93;0;0" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="616" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.93;0.93;0;0" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="616" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.93;0.93;0;0" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="136" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="136" y="86" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="121" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="151" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="136" y="71" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="136" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.82;0.82;0;0" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="121" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.82;0.82;0;0" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="151" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.82;0.82;0;0" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="136" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.82;0.82;0;0" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="136" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.82;0.82;0;0" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="661" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="661" y="101" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="646" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="676" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="661" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="661" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.83;0.83;0;0" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="646" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.83;0.83;0;0" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="676" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.83;0.83;0;0" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="661" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.83;0.83;0;0" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="661" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.83;0.83;0;0" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="481" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="481" y="101" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="466" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="496" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="481" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="481" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.78;0.78;0;0" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="466" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.78;0.78;0;0" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="496" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.78;0.78;0;0" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="481" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.78;0.78;0;0" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="481" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.78;0.78;0;0" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="121" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="121" y="116" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="106" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="136" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="121" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="121" y="131" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.79;0.79;0;0" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="106" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.79;0.79;0;0" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="136" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.79;0.79;0;0" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="121" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.79;0.79;0;0" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="121" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.79;0.79;0;0" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="106" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="106" y="71" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="91" y="71" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="121" y="71" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="106" y="56" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="106" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.94;0.94;0;0" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="91" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.94;0.94;0;0" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="121" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.94;0.94;0;0" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="106" y="56" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.94;0.94;0;0" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="106" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.94;0.94;0;0" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="301" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="301" y="71" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="286" y="71" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="316" y="71" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="301" y="56" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="301" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.87;0.87;0;0" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="286" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.87;0.87;0;0" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="316" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.87;0.87;0;0" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="301" y="56" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.87;0.87;0;0" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="301" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.87;0.87;0;0" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="616" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="616" y="116" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="601" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="631" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="616" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="616" y="131" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.80;0.80;0;0" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="601" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.80;0.80;0;0" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="631" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.80;0.80;0;0" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="616" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.80;0.80;0;0" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="616" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.80;0.80;0;0" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="256" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="256" y="71" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="241" y="71" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="271" y="71" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="256" y="56" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="256" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.85;0.85;0" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="241" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.85;0.85;0" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="271" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.85;0.85;0" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="256" y="56" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.85;0.85;0" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="256" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.85;0.85;0" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-20.66s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="151" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="151" y="116" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="136" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="166" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="151" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="151" y="131" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0.95;0.95;0;0" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="136" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0.95;0.95;0;0" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="166" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0.95;0.95;0;0" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="151" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0.95;0.95;0;0" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="151" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0.95;0.95;0;0" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="496" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="496" y="116" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="481" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="511" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="496" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="496" y="131" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.84;0.84;0;0" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="481" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.84;0.84;0;0" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="511" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.84;0.84;0;0" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="496" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.84;0.84;0;0" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="496" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.84;0.84;0;0" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="106" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="106" y="131" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="91" y="131" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="121" y="131" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="106" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="106" y="146" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.92;0.92;0;0" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="91" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.92;0.92;0;0" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="121" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.92;0.92;0;0" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="106" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.92;0.92;0;0" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="106" y="146" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.92;0.92;0;0" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="601" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="601" y="86" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="586" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="616" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="601" y="71" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="601" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.86;0.86;0;0" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="586" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.86;0.86;0;0" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="616" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.86;0.86;0;0" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="601" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.86;0.86;0;0" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="601" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.86;0.86;0;0" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="811" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="811" y="71" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="796" y="71" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="826" y="71" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="811" y="56" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="811" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.91;0.91;0;0" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="796" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.91;0.91;0;0" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="826" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.91;0.91;0;0" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="811" y="56" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.91;0.91;0;0" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="811" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.91;0.91;0;0" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="181" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="181" y="71" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="166" y="71" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="196" y="71" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="181" y="56" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="181" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.92;0.92;0;0" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="166" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.92;0.92;0;0" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="196" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.92;0.92;0;0" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="181" y="56" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.92;0.92;0;0" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="181" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.92;0.92;0;0" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="391" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="391" y="71" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="376" y="71" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="406" y="71" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="391" y="56" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="391" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.82;0.82;0;0" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="376" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.82;0.82;0;0" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="406" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.82;0.82;0;0" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="391" y="56" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.82;0.82;0;0" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="391" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.82;0.82;0;0" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="691" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="691" y="131" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="676" y="131" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="706" y="131" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="691" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="691" y="146" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.77;0.77;0;0" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="676" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.77;0.77;0;0" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="706" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.77;0.77;0;0" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="691" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.77;0.77;0;0" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="691" y="146" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.77;0.77;0;0" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="316" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="316" y="86" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="301" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="331" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="316" y="71" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="316" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.84;0.84;0;0" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="301" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.84;0.84;0;0" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="331" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.84;0.84;0;0" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="316" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.84;0.84;0;0" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="316" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.84;0.84;0;0" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="721" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="721" y="116" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="706" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="736" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="721" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="721" y="131" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.77;0.77;0" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="706" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.77;0.77;0" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="736" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.77;0.77;0" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="721" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.77;0.77;0" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="721" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.77;0.77;0" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-43.51s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="781" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="781" y="101" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="766" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="796" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="781" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="781" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0.83;0.83;0;0" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="766" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0.83;0.83;0;0" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="796" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0.83;0.83;0;0" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="781" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0.83;0.83;0;0" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="781" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0.83;0.83;0;0" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="736" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="736" y="101" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="721" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="751" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="736" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="736" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.89;0.89;0;0" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="721" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.89;0.89;0;0" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="751" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.89;0.89;0;0" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="736" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.89;0.89;0;0" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="736" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.89;0.89;0;0" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="181" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="181" y="131" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="166" y="131" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="196" y="131" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="181" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="181" y="146" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.96;0.96;0;0" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="166" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.96;0.96;0;0" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="196" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.96;0.96;0;0" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="181" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.96;0.96;0;0" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="181" y="146" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.96;0.96;0;0" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="196" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="196" y="131" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="181" y="131" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="211" y="131" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="196" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="196" y="146" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.89;0.89;0;0" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="181" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.89;0.89;0;0" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="211" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.89;0.89;0;0" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="196" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.89;0.89;0;0" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="196" y="146" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.89;0.89;0;0" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="196" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="196" y="101" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="181" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="211" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="196" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="196" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.88;0.88;0;0" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="181" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.88;0.88;0;0" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="211" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.88;0.88;0;0" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="196" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.88;0.88;0;0" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="196" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.88;0.88;0;0" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="121" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="121" y="131" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="106" y="131" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="136" y="131" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="121" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="121" y="146" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.89;0.89;0;0" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="106" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.89;0.89;0;0" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="136" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.89;0.89;0;0" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="121" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.89;0.89;0;0" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="121" y="146" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.89;0.89;0;0" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="196" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="196" y="101" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="181" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="211" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="196" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="196" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.84;0.84;0;0" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="181" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.84;0.84;0;0" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="211" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.84;0.84;0;0" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="196" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.84;0.84;0;0" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="196" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.84;0.84;0;0" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="331" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="331" y="71" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="316" y="71" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="346" y="71" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="331" y="56" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="331" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.84;0.84;0;0" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="316" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.84;0.84;0;0" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="346" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.84;0.84;0;0" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="331" y="56" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.84;0.84;0;0" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="331" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.84;0.84;0;0" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="451" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="451" y="71" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="436" y="71" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="466" y="71" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="451" y="56" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="451" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.82;0.82;0;0" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="436" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.82;0.82;0;0" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="466" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.82;0.82;0;0" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="451" y="56" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.82;0.82;0;0" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="451" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.82;0.82;0;0" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="676" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="676" y="131" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="661" y="131" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="691" y="131" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="676" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="676" y="146" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.80;0.80;0" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="661" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.80;0.80;0" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="691" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.80;0.80;0" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="676" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.80;0.80;0" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="676" y="146" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.80;0.80;0" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-17.50s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="331" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="331" y="71" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="316" y="71" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="346" y="71" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="331" y="56" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="331" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0.81;0.81;0;0" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="316" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0.81;0.81;0;0" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="346" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0.81;0.81;0;0" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="331" y="56" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0.81;0.81;0;0" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="331" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0.81;0.81;0;0" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="601" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="601" y="71" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="586" y="71" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="616" y="71" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="601" y="56" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="601" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.80;0.80;0;0" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="586" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.80;0.80;0;0" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="616" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.80;0.80;0;0" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="601" y="56" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.80;0.80;0;0" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="601" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.80;0.80;0;0" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="91" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="91" y="101" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="76" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="106" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="91" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="91" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.88;0.88;0;0" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="76" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.88;0.88;0;0" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="106" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.88;0.88;0;0" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="91" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.88;0.88;0;0" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="91" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.88;0.88;0;0" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="256" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="256" y="131" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="241" y="131" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="271" y="131" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="256" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="256" y="146" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.77;0.77;0;0" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="241" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.77;0.77;0;0" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="271" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.77;0.77;0;0" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="256" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.77;0.77;0;0" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="256" y="146" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.77;0.77;0;0" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="706" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="706" y="86" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="691" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="721" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="706" y="71" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="706" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.76;0.76;0;0" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="691" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.76;0.76;0;0" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="721" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.76;0.76;0;0" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="706" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.76;0.76;0;0" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="706" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.76;0.76;0;0" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="616" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="616" y="131" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="601" y="131" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="631" y="131" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="616" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="616" y="146" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.95;0.95;0;0" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="601" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.95;0.95;0;0" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="631" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.95;0.95;0;0" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="616" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.95;0.95;0;0" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="616" y="146" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.95;0.95;0;0" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="631" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="631" y="131" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="616" y="131" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="646" y="131" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="631" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="631" y="146" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.83;0.83;0;0" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="616" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.83;0.83;0;0" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="646" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.83;0.83;0;0" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="631" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.83;0.83;0;0" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="631" y="146" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.83;0.83;0;0" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="736" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="736" y="101" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="721" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="751" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="736" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="736" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.93;0.93;0;0" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="721" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.93;0.93;0;0" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="751" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.93;0.93;0;0" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="736" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.93;0.93;0;0" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="736" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.93;0.93;0;0" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="451" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="451" y="71" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="436" y="71" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="466" y="71" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="451" y="56" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="451" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.84;0.84;0;0" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="436" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.84;0.84;0;0" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="466" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.84;0.84;0;0" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="451" y="56" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.84;0.84;0;0" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="451" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.84;0.84;0;0" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="226" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="226" y="116" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="211" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="241" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="226" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="226" y="131" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.93;0.93;0" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="211" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.93;0.93;0" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="241" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.93;0.93;0" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="226" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.93;0.93;0" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="226" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.93;0.93;0" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-22.24s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="601" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="601" y="131" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="586" y="131" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="616" y="131" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="601" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="601" y="146" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0.92;0.92;0;0" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="586" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0.92;0.92;0;0" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="616" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0.92;0.92;0;0" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="601" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0.92;0.92;0;0" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="601" y="146" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0.92;0.92;0;0" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="61" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="61" y="101" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="46" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="76" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="61" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="61" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.87;0.87;0;0" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="46" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.87;0.87;0;0" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="76" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.87;0.87;0;0" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="61" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.87;0.87;0;0" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="61" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.87;0.87;0;0" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="346" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="346" y="116" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="331" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="361" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="346" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="346" y="131" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.77;0.77;0;0" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="331" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.77;0.77;0;0" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="361" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.77;0.77;0;0" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="346" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.77;0.77;0;0" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="346" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.77;0.77;0;0" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="781" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="781" y="71" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="766" y="71" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="796" y="71" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="781" y="56" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="781" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.84;0.84;0;0" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="766" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.84;0.84;0;0" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="796" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.84;0.84;0;0" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="781" y="56" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.84;0.84;0;0" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="781" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.84;0.84;0;0" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="586" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="586" y="71" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="571" y="71" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="601" y="71" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="586" y="56" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="586" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.85;0.85;0;0" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="571" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.85;0.85;0;0" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="601" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.85;0.85;0;0" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="586" y="56" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.85;0.85;0;0" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="586" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.85;0.85;0;0" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="106" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="106" y="101" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="91" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="121" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="106" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="106" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.90;0.90;0;0" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="91" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.90;0.90;0;0" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="121" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.90;0.90;0;0" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="106" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.90;0.90;0;0" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="106" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.90;0.90;0;0" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="466" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="466" y="101" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="451" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="481" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="466" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="466" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.95;0.95;0;0" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="451" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.95;0.95;0;0" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="481" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.95;0.95;0;0" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="466" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.95;0.95;0;0" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="466" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.95;0.95;0;0" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="301" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="301" y="116" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="286" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="316" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="301" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="301" y="131" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.83;0.83;0;0" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="286" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.83;0.83;0;0" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="316" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.83;0.83;0;0" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="301" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.83;0.83;0;0" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="301" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.83;0.83;0;0" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="466" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="466" y="71" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="451" y="71" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="481" y="71" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="466" y="56" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="466" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.81;0.81;0;0" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="451" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.81;0.81;0;0" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="481" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.81;0.81;0;0" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="466" y="56" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.81;0.81;0;0" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="466" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.81;0.81;0;0" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="301" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="301" y="131" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="286" y="131" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="316" y="131" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="301" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="301" y="146" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.94;0.94;0" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="286" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.94;0.94;0" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="316" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.94;0.94;0" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="301" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.94;0.94;0" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="301" y="146" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.94;0.94;0" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-39.77s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="316" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="316" y="71" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="301" y="71" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="331" y="71" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="316" y="56" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="316" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0.85;0.85;0;0" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="301" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0.85;0.85;0;0" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="331" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0.85;0.85;0;0" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="316" y="56" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0.85;0.85;0;0" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="316" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0.85;0.85;0;0" keyTimes="0;0.0200;0.0800;0.1000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="646" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="646" y="86" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="631" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="661" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="646" y="71" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="646" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.83;0.83;0;0" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="631" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.83;0.83;0;0" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="661" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.83;0.83;0;0" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="646" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.83;0.83;0;0" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="646" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.83;0.83;0;0" keyTimes="0;0.1000;0.1200;0.1800;0.2000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="691" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="691" y="116" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="676" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="706" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="691" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="691" y="131" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.90;0.90;0;0" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="676" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.90;0.90;0;0" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="706" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.90;0.90;0;0" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="691" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.90;0.90;0;0" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="691" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.90;0.90;0;0" keyTimes="0;0.2000;0.2200;0.2800;0.3000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="301" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="301" y="116" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="286" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="316" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="301" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="301" y="131" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.94;0.94;0;0" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="286" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.94;0.94;0;0" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="316" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.94;0.94;0;0" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="301" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.94;0.94;0;0" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="301" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.94;0.94;0;0" keyTimes="0;0.3000;0.3200;0.3800;0.4000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="391" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="391" y="131" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="376" y="131" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="406" y="131" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="391" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="391" y="146" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.95;0.95;0;0" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="376" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.95;0.95;0;0" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="406" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.95;0.95;0;0" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="391" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.95;0.95;0;0" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="391" y="146" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.95;0.95;0;0" keyTimes="0;0.4000;0.4200;0.4800;0.5000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="61" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="61" y="86" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="46" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="76" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="61" y="71" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="61" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.90;0.90;0;0" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="46" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.90;0.90;0;0" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="76" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.90;0.90;0;0" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="61" y="71" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.90;0.90;0;0" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="61" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.90;0.90;0;0" keyTimes="0;0.5000;0.5200;0.5800;0.6000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="736" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="736" y="131" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="721" y="131" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="751" y="131" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="736" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="736" y="146" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.80;0.80;0;0" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="721" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.80;0.80;0;0" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="751" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.80;0.80;0;0" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="736" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.80;0.80;0;0" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="736" y="146" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.80;0.80;0;0" keyTimes="0;0.6000;0.6200;0.6800;0.7000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="556" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="556" y="101" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="541" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="571" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="556" y="86" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="556" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.88;0.88;0;0" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="541" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.88;0.88;0;0" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="571" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.88;0.88;0;0" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="556" y="86" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.88;0.88;0;0" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="556" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.88;0.88;0;0" keyTimes="0;0.7000;0.7200;0.7800;0.8000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="691" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="691" y="131" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="676" y="131" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="706" y="131" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="691" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="691" y="146" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.92;0.92;0;0" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
 
-      <rect x="676" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.92;0.92;0;0" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="706" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.92;0.92;0;0" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="691" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.92;0.92;0;0" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="691" y="146" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35;#c99a35" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.92;0.92;0;0" keyTimes="0;0.8000;0.8200;0.8800;0.9000;1" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="256" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
+      <g opacity="0" pointer-events="none">
+        <rect x="256" y="116" width="11" height="11" rx="2" fill="#fff4b8" opacity="1" />
+        <rect x="241" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="271" y="116" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="256" y="101" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
+        <rect x="256" y="131" width="11" height="11" rx="2" fill="#ffe08a" opacity="0.88" />
         <animate attributeName="opacity" values="0;0;0.83;0.83;0" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="241" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.83;0.83;0" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="271" y="116" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.83;0.83;0" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="256" y="101" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.83;0.83;0" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
-
-      <rect x="256" y="131" width="11" height="11" rx="2" fill="#c99a35" opacity="0" pointer-events="none">
-        <animate attributeName="fill" values="#c99a35;#c99a35;#fff4b8;#fff4b8;#c99a35" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="discrete" />
-        <animate attributeName="opacity" values="0;0;0.83;0.83;0" keyTimes="0;0.9000;0.9200;0.9800;1.0000" dur="50s" begin="-43.55s" repeatCount="indefinite" calcMode="linear" />
-      </rect>
+      </g>
   </g>
   <g transform="translate(675, 169)" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="10" fill="#9aa6b2">
     <text x="0" y="9">Less</text>
